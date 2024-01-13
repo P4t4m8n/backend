@@ -40,6 +40,19 @@ async function getById(songId) {
     }
 }
 
+async function getbyTrackId(trackId) {
+    try {
+        const collection = await dbService.getCollection('song')
+        const isTrack = await collection.findOne({ trackId: trackId })
+        return isTrack
+    }
+    catch (err) {
+        loggerService.error(`while finding trackId ${trackId}`, err)
+        throw err
+    }
+
+}
+
 async function remove(songId) {
     try {
         const collection = await dbService.getCollection('song')
@@ -52,7 +65,11 @@ async function remove(songId) {
 }
 
 async function add(song) {
+
     try {
+
+        const isTrack = await getbyTrackId(song.trackId)
+        if (isTrack) return isTrack
         const collection = await dbService.getCollection('song')
         await collection.insertOne(song)
 
@@ -95,7 +112,7 @@ function _savesongsToFile() {
 
 function _buildCriteria(filterSortBy) {
 
-    const { name, artist} = filterSortBy
+    const { name, artist } = filterSortBy
     const criteria = {}
 
     if (name) criteria.name = { $regex: filterSortBy.name, $options: 'i' }
