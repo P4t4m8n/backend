@@ -63,11 +63,10 @@ export async function addStation(req, res) {
 }
 
 export async function updatestation(req, res) {
-    const { name, stationListTitle, type, tags, imgUrl, createdBy, likedByUsers, songs } = req.body
+    const { name, stationListTitle, type, tags, imgUrl, createdBy, likedByUsers, songs ,_id} = req.body
     try {
 
         const stationToSave = {
-            _id: req.params.stationId,
             name: name,
             stationListTitle: stationListTitle,
             type: type,
@@ -77,9 +76,10 @@ export async function updatestation(req, res) {
             likedByUsers: +likedByUsers,
             songs: songs
         }
+        const stationId = _id
 
 
-        const updatedstation = await stationService.update(stationToSave)
+        const updatedstation = await stationService.update(stationToSave,stationId)
         res.json(updatedstation)
 
     }

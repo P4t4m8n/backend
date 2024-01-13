@@ -10,8 +10,8 @@ export const songRoutes = express.Router()
 
 songRoutes.get('/', log, getSongs)
 songRoutes.get('/:songId', log, getSongById)
-songRoutes.post('/song/edit', log, addSong)
-songRoutes.put('/song/edit/:songId', log, updateSong)
+songRoutes.post('/edit', log, addSong)
+songRoutes.put('/edit/:songId', log, updateSong)
 songRoutes.delete('/:songId', log, removeSong)
 
 

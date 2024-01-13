@@ -66,12 +66,13 @@ async function add(station) {
     }
 }
 
-async function update(station) {
+async function update(station,stationId) {
+    console.log("station:", station)
     try {
 
         const collection = await dbService.getCollection('station')
 
-        await collection.updateOne({ _id: new ObjectId(station._id) }, { $set: station })
+        await collection.updateOne({ _id: new ObjectId(stationId) }, { $set: station })
         return station
 
     }
