@@ -36,6 +36,7 @@ export async function getSongById(req, res) {
 
 export async function addSong(req, res) {
     const { name, artist, duration, addedBy, imgUrl, trackId } = req.body
+    console.log("trackId:", trackId)
 
     try {
 
