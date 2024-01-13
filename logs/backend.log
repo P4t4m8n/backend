@@ -378,3 +378,4 @@
 13.1.2024, 16:46:12 - INFO - Req was made | /:stationId
 13.1.2024, 16:46:20 - INFO - Req was made | /
 13.1.2024, 16:46:20 - DEBUG - Getting stations | {}
+13.1.2024, 18:49:03 - INFO - Server is running on port: 3030
