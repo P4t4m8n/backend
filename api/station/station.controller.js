@@ -35,8 +35,8 @@ export async function getStationById(req, res) {
 }
 
 export async function addStation(req, res) {
-  
-    const { name, stationListTitle, type, tags, imgUrl, createdBy, likedByUsers, songs } = req.body
+
+    const { name, stationListTitle, type, tags, imgUrl, createdBy, duration, likedByUsers, songs } = req.body
     console.log("req.body:", req.body)
 
     try {
@@ -49,7 +49,8 @@ export async function addStation(req, res) {
             imgUrl: imgUrl || '',
             createdBy: createdBy || 'YoutubeFy',
             likedByUsers: +likedByUsers,
-            songs: songs
+            songs: songs,
+            duration: duration,
         }
 
         const addedstation = await stationService.add(stationToSave)
@@ -63,7 +64,8 @@ export async function addStation(req, res) {
 }
 
 export async function updatestation(req, res) {
-    const { name, stationListTitle, type, tags, imgUrl, createdBy, likedByUsers, songs ,_id} = req.body
+    const { name, stationListTitle, type, tags, imgUrl, createdBy, likedByUsers, duration, songs, _id } = req.body
+    console.log("duration:", duration)
     try {
 
         const stationToSave = {
@@ -74,12 +76,13 @@ export async function updatestation(req, res) {
             imgUrl: imgUrl,
             createdBy: createdBy,
             likedByUsers: +likedByUsers,
-            songs: songs
+            songs: songs,
+            duration: duration,
         }
         const stationId = _id
 
 
-        const updatedstation = await stationService.update(stationToSave,stationId)
+        const updatedstation = await stationService.update(stationToSave, stationId)
         res.json(updatedstation)
 
     }

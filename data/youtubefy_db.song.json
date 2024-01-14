@@ -1,0 +1,180 @@
+[{
+  "_id": {
+    "$oid": "65a2b88bc4390ff4d640d76d"
+  },
+  "name": "הכוכבים דולקים על אש קטנה 1990",
+  "artist": "משינה",
+  "type": "song",
+  "duration": "3:27",
+  "trackId": "FilQhY2Pjq0",
+  "imgUrl": "https://i.ytimg.com/vi/FilQhY2Pjq0/hqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705162891081"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a2bc53c4390ff4d640d770"
+  },
+  "name": "הכוכבים דולקים על אש קטנה 1990",
+  "artist": "משינה",
+  "type": "song",
+  "duration": "3:27",
+  "trackId": "FilQhY2Pjq0",
+  "imgUrl": "https://i.ytimg.com/vi/FilQhY2Pjq0/hqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705163859582"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a2bcf5c4390ff4d640d771"
+  },
+  "name": "רכבת לילה 1985",
+  "artist": "משינה",
+  "type": "song",
+  "duration": "3:42",
+  "trackId": "IOSmBOsGRMc",
+  "imgUrl": "https://i.ytimg.com/vi/IOSmBOsGRMc/hqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705164021515"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a2be96c4390ff4d640d772"
+  },
+  "name": "רכבת לילה 1985",
+  "artist": "משינה",
+  "type": "song",
+  "duration": "3:42",
+  "trackId": "IOSmBOsGRMc",
+  "imgUrl": "https://i.ytimg.com/vi/IOSmBOsGRMc/hqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705164438834"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a2c33bb1bc04c870481644"
+  },
+  "name": "זה היה ביתי",
+  "artist": "אינפקציה",
+  "type": "song",
+  "duration": "2:42",
+  "trackId": "zab3SereSz8",
+  "imgUrl": "https://i.ytimg.com/vi/zab3SereSz8/hqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705165627444"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a2c461b1bc04c870481645"
+  },
+  "name": "Unknown",
+  "artist": "Unknown",
+  "type": "song",
+  "duration": "3:28",
+  "trackId": "wnu3te5ule0",
+  "imgUrl": "https://i.ytimg.com/vi/wnu3te5ule0/hqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705165921793"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a2c4e0b1bc04c870481646"
+  },
+  "name": "Symphony Of Destruction",
+  "artist": "Unknown",
+  "type": "song",
+  "duration": "4:7",
+  "trackId": "WdoXZf-FZyA",
+  "imgUrl": "https://i.ytimg.com/vi/WdoXZf-FZyA/hqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705166048341"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a2d246b1bc04c870481679"
+  },
+  "name": "להקת כוורת-מיטב השירים היפים חלק 1(מתוך 2)-כל שירי הלהקה היפים של כוורת באוסף אחד-להאזנה ברצף",
+  "artist": "Unknown",
+  "type": "song",
+  "duration": "Invalid format",
+  "trackId": "VrtVs5OAtMM",
+  "imgUrl": "https://i.ytimg.com/vi/VrtVs5OAtMM/hqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705169478689"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a2e109b1bc04c870481688"
+  },
+  "name": "Without Me (Official Music Video)",
+  "artist": "Eminem",
+  "type": "song",
+  "duration": "4:58",
+  "trackId": "YVkUvmDQ3HY",
+  "imgUrl": "https://i.ytimg.com/vi/YVkUvmDQ3HY/hqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705173257899"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a2f900b1bc04c870481689"
+  },
+  "name": "היא התווכחה איתו שעות 1986",
+  "artist": "משינה",
+  "type": "song",
+  "duration": "4:53",
+  "trackId": "LWD30iw7Diw",
+  "imgUrl": "https://i.ytimg.com/vi/LWD30iw7Diw/hqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705179392039"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a2f902b1bc04c87048168a"
+  },
+  "name": "משינה-מיטב השירים היפים חלק 1(מתוך 2)-כל שירי הלהקה היפים של משינה באוסף אחד להאזנה ברצף",
+  "artist": "Unknown",
+  "type": "song",
+  "duration": "Invalid format",
+  "trackId": "lUhqYWqnDGg",
+  "imgUrl": "https://i.ytimg.com/vi/lUhqYWqnDGg/hqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705179394532"
+  },
+  "likedByUsers": []
+}
+
+
+
+]
