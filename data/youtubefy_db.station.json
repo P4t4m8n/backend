@@ -14,7 +14,7 @@
   "likedByUsers": 0,
   "songs": [
     {
-      "name": "Flowers (Official Video)",
+      "name": "Flowers ",
       "artist": "Miley Cyrus",
       "type": "song",
       "duration": "03:22",
@@ -28,7 +28,7 @@
       "_id": "65a586693bc5d92a271d70bf"
     },
     {
-      "name": "Kill Bill (Official Video)",
+      "name": "Kill Bill ",
       "artist": "SZA",
       "type": "song",
       "duration": "04:36",
@@ -42,7 +42,7 @@
       "_id": "65a586803bc5d92a271d70c0"
     },
     {
-      "name": "As It Was (Official Video)",
+      "name": "As It Was ",
       "artist": "Harry Styles",
       "type": "song",
       "duration": "02:46",
@@ -56,8 +56,8 @@
       "_id": "65a5868d3bc5d92a271d70c1"
     },
     {
-      "name": "정국 (Jung Kook) &#39;Seven (feat. Latto)&#39; Official MV",
-      "artist": "Unknown",
+      "name": "Seven (feat. Latto)",
+      "artist": "Jungkook",
       "type": "song",
       "duration": "03:47",
       "trackId": "QU9c0053UAU",
@@ -70,8 +70,8 @@
       "_id": "65a586a33bc5d92a271d70c2"
     },
     {
-      "name": "Unknown",
-      "artist": "Unknown",
+      "name": "Ella Baila Sola",
+      "artist": "Eslabon Armado & Peso Pluma",
       "type": "song",
       "duration": "03:08",
       "trackId": "lZiaYpD9ZrI",
@@ -99,7 +99,7 @@
     },
     {
       "name": "Creepin",
-      "artist": "Metro Boomin, The Weeknd, 21 Savage",
+      "artist": "The Weeknd",
       "type": "song",
       "duration": "03:41",
       "trackId": "-UcFeTfm1oM",
@@ -112,7 +112,7 @@
       "_id": "65a586e63bc5d92a271d70c5"
     },
     {
-      "name": "BZRP Music Sessions 53 (Lyrics)",
+      "name": "BZRP Music Sessions 53",
       "artist": "SHAKIRA",
       "type": "song",
       "duration": "04:40",
@@ -126,7 +126,7 @@
       "_id": "65a587b63bc5d92a271d70c6"
     },
     {
-      "name": "Anti-Hero (Official Music Video)",
+      "name": "Anti-Hero ",
       "artist": "Taylor Swift",
       "type": "song",
       "duration": "05:10",
@@ -158,7 +158,7 @@
   "likedByUsers": 0,
   "songs": [
     {
-      "name": "Sheena Is A Punk Rocker (Official Music Video)",
+      "name": "Sheena Is A Punk Rocker",
       "artist": "Ramones",
       "type": "song",
       "duration": "02:56",
@@ -190,7 +190,7 @@
   "likedByUsers": 0,
   "songs": [
     {
-      "name": "What Do I Get? (Official Video)",
+      "name": "What Do I Get?",
       "artist": "Buzzcocks",
       "type": "song",
       "duration": "02:55",
@@ -222,7 +222,7 @@
   "likedByUsers": 0,
   "songs": [
     {
-      "name": "Ever Fallen In Love (With Someone You Shouldn’t’ve?) (TOTP, 1978)",
+      "name": "Ever Fallen In Love",
       "artist": "Buzzcocks",
       "type": "song",
       "duration": "02:35",

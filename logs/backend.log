@@ -512,3 +512,35 @@
 15.1.2024, 22:28:47 - DEBUG - Getting stations | {}
 15.1.2024, 22:28:48 - DEBUG - Getting stations | {}
 15.1.2024, 22:28:48 - INFO - Req was made | /
+15.1.2024, 22:30:04 - INFO - Req was made | /:stationId
+15.1.2024, 22:30:07 - INFO - Req was made | /:stationId
+15.1.2024, 22:30:08 - INFO - Req was made | /:stationId
+15.1.2024, 22:30:13 - INFO - Req was made | /
+15.1.2024, 22:30:13 - DEBUG - Getting stations | {}
+15.1.2024, 22:30:14 - INFO - Req was made | /
+15.1.2024, 22:30:14 - DEBUG - Getting stations | {}
+15.1.2024, 22:30:16 - INFO - Req was made | /:stationId
+15.1.2024, 22:30:42 - INFO - Req was made | /
+15.1.2024, 22:30:42 - DEBUG - Getting stations | {}
+15.1.2024, 22:30:44 - INFO - Req was made | /:stationId
+15.1.2024, 22:30:46 - INFO - Req was made | /:stationId
+15.1.2024, 22:31:19 - INFO - Req was made | /:stationId
+15.1.2024, 22:33:20 - INFO - Req was made | /:stationId
+15.1.2024, 22:33:22 - INFO - Req was made | /
+15.1.2024, 22:33:22 - DEBUG - Getting stations | {}
+15.1.2024, 22:33:23 - INFO - Req was made | /:stationId
+15.1.2024, 22:33:46 - INFO - Req was made | /
+15.1.2024, 22:33:46 - DEBUG - Getting stations | {}
+15.1.2024, 22:33:53 - INFO - Req was made | /:stationId
+15.1.2024, 22:34:00 - INFO - Req was made | /
+15.1.2024, 22:34:00 - DEBUG - Getting stations | {}
+15.1.2024, 22:36:26 - INFO - Req was made | /
+15.1.2024, 22:36:26 - DEBUG - Getting stations | {}
+15.1.2024, 22:37:16 - INFO - Req was made | /
+15.1.2024, 22:37:16 - DEBUG - Getting stations | {}
+15.1.2024, 22:38:12 - INFO - Req was made | /:stationId
+15.1.2024, 22:38:15 - INFO - Req was made | /
+15.1.2024, 22:38:15 - DEBUG - Getting stations | {}
+15.1.2024, 22:39:39 - INFO - Req was made | /:stationId
+15.1.2024, 22:39:43 - INFO - Req was made | /
+15.1.2024, 22:39:43 - DEBUG - Getting stations | {}
