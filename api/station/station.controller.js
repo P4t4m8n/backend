@@ -8,6 +8,7 @@ export async function getStations(req, res) {
         }
         loggerService.debug('Getting stations', filterSortBy)
         const stations = await stationService.query(filterSortBy)
+        console.log("stations:", stations)
         res.json(stations)
     }
     catch (err) {

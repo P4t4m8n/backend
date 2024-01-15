@@ -1,4 +1,4 @@
 export default {
-    dbURL:  'mongodb+srv://P4t4m8n:YzVTNJwhgpopMeNS@p4t4server.7ovkpa1.mongodb.net/?retryWrites=true&w=majority',
-    dbName: 'youtubefy_db',
+    dbURL:  'mongodb+srv://eranopenuni:BvDyrswAHQDCmPu7@tubfy.vzq1ydk.mongodb.net/?retryWrites=true&w=majority',
+    dbName: 'TubeFy',
 }

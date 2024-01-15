@@ -1,0 +1,63 @@
+15.1.2024, 23:03:11 - INFO - Server is running on port: 3030
+15.1.2024, 23:03:14 - INFO - Req was made | /
+15.1.2024, 23:03:14 - DEBUG - Getting stations | {}
+15.1.2024, 23:03:23 - INFO - Req was made | /:stationId
+15.1.2024, 23:03:28 - INFO - Req was made | /
+15.1.2024, 23:03:28 - DEBUG - Getting stations | {}
+15.1.2024, 23:03:40 - INFO - Req was made | /:stationId
+15.1.2024, 23:04:03 - DEBUG - auth.service - login with username: abc
+15.1.2024, 23:04:03 - INFO - User login:  | {"_id":"65a59463ab7411137f8f73d3","username":"abc","email":"a@a","stations":[{"name":"Liked Songs","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"/src/assets/img/favorits.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a59463ab7411137f8f73d1"},{"name":"Downloaded","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"/src/assets/img/favorits.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a59463ab7411137f8f73d2"},{"name":"My station #1","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"http://res.cloudinary.com/dpnevk8db/image/upload/v1705350420/njf0attyt2x9cqgwmngw.jpg","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a594b6ab7411137f8f73d4"}],"imgUrl":""}
+15.1.2024, 23:04:03 - INFO - Req was made | /
+15.1.2024, 23:04:03 - DEBUG - Getting stations | {}
+15.1.2024, 23:04:06 - INFO - Req was made | /:userId
+15.1.2024, 23:04:07 - INFO - Req was made | /:stationId
+15.1.2024, 23:04:10 - INFO - Req was made | /
+15.1.2024, 23:04:10 - DEBUG - Getting stations | {}
+15.1.2024, 23:04:16 - INFO - Req was made | /:stationId
+15.1.2024, 23:04:19 - INFO - Req was made | /
+15.1.2024, 23:04:19 - DEBUG - Getting stations | {}
+15.1.2024, 23:04:20 - INFO - Req was made | /:stationId
+15.1.2024, 23:04:23 - INFO - Req was made | /
+15.1.2024, 23:04:23 - DEBUG - Getting stations | {}
+15.1.2024, 23:04:32 - INFO - Req was made | /:stationId
+15.1.2024, 23:04:39 - INFO - Req was made | /:userId
+15.1.2024, 23:04:42 - DEBUG - Getting stations | {}
+15.1.2024, 23:04:42 - INFO - Req was made | /
+15.1.2024, 23:23:01 - INFO - Server is running on port: 3030
+15.1.2024, 23:23:17 - INFO - Req was made | /
+15.1.2024, 23:23:17 - DEBUG - Getting stations | {}
+15.1.2024, 23:23:18 - ERROR - Cannot Connect to DB | MongoServerError: bad auth : authentication failed
+15.1.2024, 23:23:18 - ERROR - cannot find station | MongoServerError: bad auth : authentication failed
+15.1.2024, 23:23:18 - ERROR - Failed to get Mongo collection | MongoServerError: bad auth : authentication failed
+15.1.2024, 23:23:18 - ERROR - Failed to get stations | MongoServerError: bad auth : authentication failed
+15.1.2024, 23:23:41 - INFO - Server is running on port: 3030
+15.1.2024, 23:23:44 - INFO - Server is running on port: 3030
+15.1.2024, 23:23:47 - INFO - Server is running on port: 3030
+15.1.2024, 23:23:50 - INFO - Server is running on port: 3030
+15.1.2024, 23:23:52 - INFO - Server is running on port: 3030
+15.1.2024, 23:23:55 - INFO - Req was made | /
+15.1.2024, 23:23:55 - DEBUG - Getting stations | {}
+15.1.2024, 23:24:30 - INFO - Req was made | /
+15.1.2024, 23:24:30 - DEBUG - Getting stations | {}
+15.1.2024, 23:24:50 - DEBUG - Getting stations | {}
+15.1.2024, 23:24:50 - INFO - Req was made | /
+15.1.2024, 23:26:21 - INFO - Req was made | /
+15.1.2024, 23:26:21 - DEBUG - Getting stations | {}
+15.1.2024, 23:26:53 - INFO - Req was made | /
+15.1.2024, 23:26:53 - DEBUG - Getting stations | {}
+15.1.2024, 23:27:29 - INFO - Server is running on port: 3030
+15.1.2024, 23:27:33 - INFO - Req was made | /
+15.1.2024, 23:27:33 - DEBUG - Getting stations | {}
+15.1.2024, 23:28:06 - INFO - Server is running on port: 3030
+15.1.2024, 23:28:08 - INFO - Server is running on port: 3030
+15.1.2024, 23:28:12 - DEBUG - Getting stations | {}
+15.1.2024, 23:28:12 - INFO - Req was made | /
+15.1.2024, 23:28:52 - INFO - Server is running on port: 3030
+15.1.2024, 23:28:54 - INFO - Server is running on port: 3030
+15.1.2024, 23:28:58 - INFO - Req was made | /
+15.1.2024, 23:28:58 - DEBUG - Getting stations | {}
+15.1.2024, 23:31:01 - INFO - Server is running on port: 3030
+15.1.2024, 23:31:03 - INFO - Server is running on port: 3030
+15.1.2024, 23:31:10 - INFO - Server is running on port: 3030
+15.1.2024, 23:31:21 - DEBUG - Getting stations | {}
+15.1.2024, 23:31:21 - INFO - Req was made | /
