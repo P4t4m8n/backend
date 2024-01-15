@@ -544,3 +544,20 @@
 15.1.2024, 22:39:39 - INFO - Req was made | /:stationId
 15.1.2024, 22:39:43 - INFO - Req was made | /
 15.1.2024, 22:39:43 - DEBUG - Getting stations | {}
+15.1.2024, 22:46:45 - INFO - Req was made | /
+15.1.2024, 22:46:45 - DEBUG - Getting stations | {}
+15.1.2024, 22:47:55 - INFO - Req was made | /
+15.1.2024, 22:47:55 - DEBUG - Getting stations | {}
+15.1.2024, 22:48:52 - INFO - Req was made | /
+15.1.2024, 22:48:52 - DEBUG - Getting stations | {}
+15.1.2024, 22:49:58 - INFO - Req was made | /
+15.1.2024, 22:49:58 - DEBUG - Getting stations | {}
+15.1.2024, 22:49:59 - INFO - Req was made | /:stationId
+15.1.2024, 22:50:04 - INFO - Req was made | /
+15.1.2024, 22:50:04 - DEBUG - Getting stations | {}
+15.1.2024, 22:51:04 - INFO - Req was made | /
+15.1.2024, 22:51:04 - DEBUG - Getting stations | {}
+15.1.2024, 22:52:51 - INFO - Req was made | /
+15.1.2024, 22:52:51 - DEBUG - Getting stations | {}
+15.1.2024, 22:56:54 - INFO - Req was made | /
+15.1.2024, 22:56:54 - DEBUG - Getting stations | {}
