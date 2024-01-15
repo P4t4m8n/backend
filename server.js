@@ -19,7 +19,7 @@ app.use(express.json())
 app.use(express.static('public'))
 
 if (process.env.NODE_ENV === 'production') {
-    
+
     app.use(express.static(path.resolve(__dirname, 'public')))
     console.log('__dirname: ', __dirname)
 } else {
@@ -44,6 +44,11 @@ app.use('/api/station', stationRoutes)
 import { songRoutes } from './api/songs/song.routes.js'
 app.use('/api/song', songRoutes)
 
+import { authRoutes } from './api/auth/auth.routes.js'
+app.use('/api/auth', authRoutes)
+
+import { userRoutes } from './api/user/user.routes.js'
+app.use('api/user', userRoutes)
 
 app.get('/**', (req, res) => {
     res.sendFile(path.resolve('public/index.html'))

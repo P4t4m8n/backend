@@ -37,7 +37,6 @@ export async function getStationById(req, res) {
 export async function addStation(req, res) {
 
     const { name, stationListTitle, type, tags, imgUrl, createdBy, duration, likedByUsers, songs } = req.body
-    console.log("req.body:", req.body)
 
     try {
 
