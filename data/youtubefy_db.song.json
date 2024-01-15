@@ -1,180 +1,176 @@
 [{
   "_id": {
-    "$oid": "65a2b88bc4390ff4d640d76d"
+    "$oid": "65a585783bc5d92a271d70bd"
   },
-  "name": "הכוכבים דולקים על אש קטנה 1990",
-  "artist": "משינה",
-  "type": "song",
-  "duration": "3:27",
-  "trackId": "FilQhY2Pjq0",
-  "imgUrl": "https://i.ytimg.com/vi/FilQhY2Pjq0/hqdefault.jpg",
-  "addedBy": "artist",
-  "addedAt": {
-    "$numberLong": "1705162891081"
-  },
-  "likedByUsers": []
-},
-{
-  "_id": {
-    "$oid": "65a2bc53c4390ff4d640d770"
-  },
-  "name": "הכוכבים דולקים על אש קטנה 1990",
-  "artist": "משינה",
-  "type": "song",
-  "duration": "3:27",
-  "trackId": "FilQhY2Pjq0",
-  "imgUrl": "https://i.ytimg.com/vi/FilQhY2Pjq0/hqdefault.jpg",
-  "addedBy": "artist",
-  "addedAt": {
-    "$numberLong": "1705163859582"
-  },
-  "likedByUsers": []
-},
-{
-  "_id": {
-    "$oid": "65a2bcf5c4390ff4d640d771"
-  },
-  "name": "רכבת לילה 1985",
-  "artist": "משינה",
-  "type": "song",
-  "duration": "3:42",
-  "trackId": "IOSmBOsGRMc",
-  "imgUrl": "https://i.ytimg.com/vi/IOSmBOsGRMc/hqdefault.jpg",
-  "addedBy": "artist",
-  "addedAt": {
-    "$numberLong": "1705164021515"
-  },
-  "likedByUsers": []
-},
-{
-  "_id": {
-    "$oid": "65a2be96c4390ff4d640d772"
-  },
-  "name": "רכבת לילה 1985",
-  "artist": "משינה",
-  "type": "song",
-  "duration": "3:42",
-  "trackId": "IOSmBOsGRMc",
-  "imgUrl": "https://i.ytimg.com/vi/IOSmBOsGRMc/hqdefault.jpg",
-  "addedBy": "artist",
-  "addedAt": {
-    "$numberLong": "1705164438834"
-  },
-  "likedByUsers": []
-},
-{
-  "_id": {
-    "$oid": "65a2c33bb1bc04c870481644"
-  },
-  "name": "זה היה ביתי",
-  "artist": "אינפקציה",
-  "type": "song",
-  "duration": "2:42",
-  "trackId": "zab3SereSz8",
-  "imgUrl": "https://i.ytimg.com/vi/zab3SereSz8/hqdefault.jpg",
-  "addedBy": "artist",
-  "addedAt": {
-    "$numberLong": "1705165627444"
-  },
-  "likedByUsers": []
-},
-{
-  "_id": {
-    "$oid": "65a2c461b1bc04c870481645"
-  },
-  "name": "Unknown",
-  "artist": "Unknown",
-  "type": "song",
-  "duration": "3:28",
-  "trackId": "wnu3te5ule0",
-  "imgUrl": "https://i.ytimg.com/vi/wnu3te5ule0/hqdefault.jpg",
-  "addedBy": "artist",
-  "addedAt": {
-    "$numberLong": "1705165921793"
-  },
-  "likedByUsers": []
-},
-{
-  "_id": {
-    "$oid": "65a2c4e0b1bc04c870481646"
-  },
-  "name": "Symphony Of Destruction",
-  "artist": "Unknown",
-  "type": "song",
-  "duration": "4:7",
-  "trackId": "WdoXZf-FZyA",
-  "imgUrl": "https://i.ytimg.com/vi/WdoXZf-FZyA/hqdefault.jpg",
-  "addedBy": "artist",
-  "addedAt": {
-    "$numberLong": "1705166048341"
-  },
-  "likedByUsers": []
-},
-{
-  "_id": {
-    "$oid": "65a2d246b1bc04c870481679"
-  },
-  "name": "להקת כוורת-מיטב השירים היפים חלק 1(מתוך 2)-כל שירי הלהקה היפים של כוורת באוסף אחד-להאזנה ברצף",
-  "artist": "Unknown",
-  "type": "song",
-  "duration": "Invalid format",
-  "trackId": "VrtVs5OAtMM",
-  "imgUrl": "https://i.ytimg.com/vi/VrtVs5OAtMM/hqdefault.jpg",
-  "addedBy": "artist",
-  "addedAt": {
-    "$numberLong": "1705169478689"
-  },
-  "likedByUsers": []
-},
-{
-  "_id": {
-    "$oid": "65a2e109b1bc04c870481688"
-  },
-  "name": "Without Me (Official Music Video)",
+  "name": "Without Me",
   "artist": "Eminem",
   "type": "song",
-  "duration": "4:58",
+  "duration": "04:58",
   "trackId": "YVkUvmDQ3HY",
-  "imgUrl": "https://i.ytimg.com/vi/YVkUvmDQ3HY/hqdefault.jpg",
+  "imgUrl": "https://i.ytimg.com/vi/YVkUvmDQ3HY/mqdefault.jpg",
   "addedBy": "artist",
   "addedAt": {
-    "$numberLong": "1705173257899"
+    "$numberLong": "1705346424150"
   },
   "likedByUsers": []
 },
 {
   "_id": {
-    "$oid": "65a2f900b1bc04c870481689"
+    "$oid": "65a585853bc5d92a271d70be"
   },
-  "name": "היא התווכחה איתו שעות 1986",
-  "artist": "משינה",
+  "name": "Mockingbird",
+  "artist": "Eminem",
   "type": "song",
-  "duration": "4:53",
-  "trackId": "LWD30iw7Diw",
-  "imgUrl": "https://i.ytimg.com/vi/LWD30iw7Diw/hqdefault.jpg",
+  "duration": "04:18",
+  "trackId": "S9bCLPwzSC0",
+  "imgUrl": "https://i.ytimg.com/vi/S9bCLPwzSC0/mqdefault.jpg",
   "addedBy": "artist",
   "addedAt": {
-    "$numberLong": "1705179392039"
+    "$numberLong": "1705346437224"
   },
   "likedByUsers": []
 },
 {
   "_id": {
-    "$oid": "65a2f902b1bc04c87048168a"
+    "$oid": "65a586693bc5d92a271d70bf"
   },
-  "name": "משינה-מיטב השירים היפים חלק 1(מתוך 2)-כל שירי הלהקה היפים של משינה באוסף אחד להאזנה ברצף",
-  "artist": "Unknown",
+  "name": "Flowers",
+  "artist": "Miley Cyrus",
   "type": "song",
-  "duration": "Invalid format",
-  "trackId": "lUhqYWqnDGg",
-  "imgUrl": "https://i.ytimg.com/vi/lUhqYWqnDGg/hqdefault.jpg",
+  "duration": "03:22",
+  "trackId": "G7KNmW9a75Y",
+  "imgUrl": "https://i.ytimg.com/vi/G7KNmW9a75Y/mqdefault.jpg",
   "addedBy": "artist",
   "addedAt": {
-    "$numberLong": "1705179394532"
+    "$numberLong": "1705346665264"
   },
   "likedByUsers": []
-}
-
-
-
-]
+},
+{
+  "_id": {
+    "$oid": "65a586803bc5d92a271d70c0"
+  },
+  "name": "Kill Bill",
+  "artist": "SZA",
+  "type": "song",
+  "duration": "04:36",
+  "trackId": "MSRcC626prw",
+  "imgUrl": "https://i.ytimg.com/vi/MSRcC626prw/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705346688501"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a5868d3bc5d92a271d70c1"
+  },
+  "name": "As It Was",
+  "artist": "Harry Styles",
+  "type": "song",
+  "duration": "02:46",
+  "trackId": "H5v3kku4y6Q",
+  "imgUrl": "https://i.ytimg.com/vi/H5v3kku4y6Q/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705346701331"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a586a33bc5d92a271d70c2"
+  },
+  "name": "Seven (feat. Latto)",
+  "artist": "Jungkook",
+  "type": "song",
+  "duration": "03:47",
+  "trackId": "QU9c0053UAU",
+  "imgUrl": "https://i.ytimg.com/vi/QU9c0053UAU/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705346723878"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a586b43bc5d92a271d70c3"
+  },
+  "name": "Ella Baila Sola",
+  "artist": "Eslabon Armado & Peso Pluma",
+  "type": "song",
+  "duration": "03:08",
+  "trackId": "lZiaYpD9ZrI",
+  "imgUrl": "https://i.ytimg.com/vi/lZiaYpD9ZrI/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705346740420"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a586d63bc5d92a271d70c4"
+  },
+  "name": "Cruel Summer",
+  "artist": "Taylor Swift",
+  "type": "song",
+  "duration": "03:00",
+  "trackId": "JLJcHbYSlB8",
+  "imgUrl": "https://i.ytimg.com/vi/JLJcHbYSlB8/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705346774803"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a586e63bc5d92a271d70c5"
+  },
+  "name": "Creepin",
+  "artist": " The Weeknd",
+  "type": "song",
+  "duration": "03:41",
+  "trackId": "-UcFeTfm1oM",
+  "imgUrl": "https://i.ytimg.com/vi/-UcFeTfm1oM/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705346790729"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a587b63bc5d92a271d70c6"
+  },
+  "name": "BZRP Music Sessions 53",
+  "artist": "SHAKIRA",
+  "type": "song",
+  "duration": "04:40",
+  "trackId": "qSSg1EAImm4",
+  "imgUrl": "https://i.ytimg.com/vi/qSSg1EAImm4/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705346998977"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a587c23bc5d92a271d70c7"
+  },
+  "name": "Anti-Hero",
+  "artist": "Taylor Swift",
+  "type": "song",
+  "duration": "05:10",
+  "trackId": "b1kbLwvqugk",
+  "imgUrl": "https://i.ytimg.com/vi/b1kbLwvqugk/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705347010109"
+  },
+  "likedByUsers": []
+}]

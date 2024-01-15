@@ -16,10 +16,9 @@ async function query(filterSortBy = {}) {
     try {
 
         const criteria = _buildCriteria(filterSortBy)
-        const { sortBy } = filterSortBy
 
         const collection = await dbService.getCollection('station')
-        var stations = await collection.find(criteria).sort({ [sortBy]: 1 }).toArray()
+        var stations = await collection.find(criteria).toArray()
         return stations
     }
     catch (err) {
@@ -97,11 +96,9 @@ function _savestationsToFile() {
 
 function _buildCriteria(filterSortBy) {
 
-    const { name, artist, song } = filterSortBy
     const criteria = {}
 
-    if (name) criteria.name = { $regex: filterSortBy.name, $options: 'i' }
-
+    criteria['createdBy.username'] = 'TubeFy'
     return criteria
 }
 

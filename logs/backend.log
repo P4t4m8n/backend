@@ -62,3 +62,453 @@
 15.1.2024, 19:47:48 - INFO - Req was made | /edit
 15.1.2024, 19:47:48 - INFO - Req was made | /:userId
 15.1.2024, 19:47:49 - INFO - Req was made | /:stationId
+15.1.2024, 19:49:20 - INFO - Req was made | /edit
+15.1.2024, 19:49:20 - INFO - Req was made | /:userId
+15.1.2024, 19:49:20 - INFO - Req was made | /:stationId
+15.1.2024, 19:50:40 - INFO - Req was made | /
+15.1.2024, 19:50:40 - DEBUG - Getting stations | {}
+15.1.2024, 19:51:00 - DEBUG - Getting stations | {}
+15.1.2024, 19:51:00 - INFO - Req was made | /
+15.1.2024, 19:51:07 - INFO - Req was made | /edit
+15.1.2024, 19:51:07 - DEBUG - auth.service - signup with username: a
+15.1.2024, 19:51:07 - INFO - Req was made | /edit
+15.1.2024, 19:51:07 - DEBUG - auth.service - login with username: a
+15.1.2024, 19:51:07 - DEBUG - auth.route - new account created: {"username":"a","password":"$2b$10$9kcIvhMC8fwzx1dpBxDWfeH7N1Bp2kbccUY4Tn9jMigCJMk8ejyvK","email":"a@a","stations":[{"name":"Liked Songs","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"/src/assets/img/favorits.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a5708bc188baf8d499726f"},{"name":"Downloaded","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"/src/assets/img/favorits.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a5708bc188baf8d4997270"}],"imgUrl":"","_id":"65a5708bc188baf8d4997271"}
+15.1.2024, 19:51:07 - INFO - Req was made | /
+15.1.2024, 19:51:07 - DEBUG - Getting stations | {}
+15.1.2024, 19:51:13 - INFO - Req was made | /edit
+15.1.2024, 19:51:13 - INFO - Req was made | /:userId
+15.1.2024, 19:51:13 - INFO - Req was made | /:stationId
+15.1.2024, 19:51:41 - INFO - Req was made | /edit
+15.1.2024, 19:51:41 - INFO - Req was made | /edit/:stationId
+15.1.2024, 19:51:41 - INFO - Req was made | /:userId
+15.1.2024, 19:51:41 - INFO - Req was made | /:stationId
+15.1.2024, 19:52:33 - INFO - Req was made | /edit
+15.1.2024, 19:52:33 - INFO - Req was made | /edit/:stationId
+15.1.2024, 19:52:33 - INFO - Req was made | /:userId
+15.1.2024, 19:52:33 - INFO - Req was made | /:stationId
+15.1.2024, 19:55:49 - INFO - Req was made | /:stationId
+15.1.2024, 19:55:56 - INFO - Req was made | /:stationId
+15.1.2024, 19:55:57 - INFO - Req was made | /:stationId
+15.1.2024, 19:55:58 - INFO - Req was made | /:stationId
+15.1.2024, 19:55:59 - INFO - Req was made | /:stationId
+15.1.2024, 19:56:00 - INFO - Req was made | /:stationId
+15.1.2024, 19:56:17 - INFO - Req was made | /
+15.1.2024, 19:56:17 - DEBUG - Getting stations | {}
+15.1.2024, 19:56:29 - INFO - Req was made | /
+15.1.2024, 19:56:29 - DEBUG - Getting stations | {}
+15.1.2024, 19:56:32 - INFO - Req was made | /:stationId
+15.1.2024, 19:56:45 - INFO - Req was made | /edit
+15.1.2024, 19:56:45 - INFO - Req was made | /:userId
+15.1.2024, 19:56:45 - INFO - Req was made | /edit/:stationId
+15.1.2024, 19:56:45 - INFO - Req was made | /:stationId
+15.1.2024, 19:57:17 - INFO - Req was made | /:stationId
+15.1.2024, 19:59:56 - INFO - Req was made | /:stationId
+15.1.2024, 20:02:42 - INFO - Req was made | /:stationId
+15.1.2024, 20:03:00 - INFO - Req was made | /
+15.1.2024, 20:03:00 - DEBUG - Getting stations | {}
+15.1.2024, 20:03:11 - INFO - Req was made | /
+15.1.2024, 20:03:11 - DEBUG - Getting stations | {}
+15.1.2024, 20:03:49 - INFO - Req was made | /
+15.1.2024, 20:03:49 - DEBUG - Getting stations | {}
+15.1.2024, 20:03:52 - INFO - Req was made | /
+15.1.2024, 20:03:52 - DEBUG - Getting stations | {}
+15.1.2024, 20:03:53 - DEBUG - Getting stations | {}
+15.1.2024, 20:03:53 - INFO - Req was made | /
+15.1.2024, 20:03:58 - DEBUG - Getting stations | {}
+15.1.2024, 20:03:58 - INFO - Req was made | /
+15.1.2024, 20:04:19 - INFO - Req was made | /
+15.1.2024, 20:04:19 - DEBUG - Getting stations | {}
+15.1.2024, 20:04:35 - INFO - Req was made | /
+15.1.2024, 20:04:35 - DEBUG - Getting stations | {}
+15.1.2024, 20:05:05 - INFO - Req was made | /
+15.1.2024, 20:05:05 - DEBUG - Getting stations | {}
+15.1.2024, 20:05:23 - DEBUG - Getting stations | {}
+15.1.2024, 20:05:23 - INFO - Req was made | /
+15.1.2024, 20:06:02 - INFO - Req was made | /
+15.1.2024, 20:06:02 - DEBUG - Getting stations | {}
+15.1.2024, 20:06:18 - INFO - Req was made | /
+15.1.2024, 20:06:18 - DEBUG - Getting stations | {}
+15.1.2024, 20:06:24 - DEBUG - Getting stations | {}
+15.1.2024, 20:06:24 - INFO - Req was made | /
+15.1.2024, 20:06:54 - INFO - Req was made | /
+15.1.2024, 20:06:54 - DEBUG - Getting stations | {}
+15.1.2024, 20:07:10 - INFO - Req was made | /
+15.1.2024, 20:07:10 - DEBUG - Getting stations | {}
+15.1.2024, 20:07:47 - DEBUG - Getting stations | {}
+15.1.2024, 20:07:47 - INFO - Req was made | /
+15.1.2024, 20:07:49 - INFO - Req was made | /
+15.1.2024, 20:07:49 - DEBUG - Getting stations | {}
+15.1.2024, 20:09:22 - INFO - Req was made | /
+15.1.2024, 20:09:22 - DEBUG - Getting stations | {}
+15.1.2024, 20:09:29 - INFO - Req was made | /
+15.1.2024, 20:09:29 - DEBUG - Getting stations | {}
+15.1.2024, 20:13:19 - INFO - Req was made | /
+15.1.2024, 20:13:19 - DEBUG - Getting stations | {}
+15.1.2024, 20:13:22 - INFO - Req was made | /edit
+15.1.2024, 20:13:22 - INFO - Req was made | /:userId
+15.1.2024, 20:14:01 - INFO - Req was made | /
+15.1.2024, 20:14:01 - DEBUG - Getting stations | {}
+15.1.2024, 20:14:06 - DEBUG - Getting stations | {}
+15.1.2024, 20:14:06 - INFO - Req was made | /
+15.1.2024, 20:14:09 - INFO - Req was made | /edit
+15.1.2024, 20:14:10 - INFO - Req was made | /:userId
+15.1.2024, 20:14:48 - INFO - Req was made | /
+15.1.2024, 20:14:48 - DEBUG - Getting stations | {}
+15.1.2024, 20:14:52 - INFO - Req was made | /
+15.1.2024, 20:14:52 - DEBUG - Getting stations | {}
+15.1.2024, 20:14:55 - INFO - Req was made | /edit
+15.1.2024, 20:14:55 - INFO - Req was made | /:userId
+15.1.2024, 20:14:55 - INFO - Req was made | /:stationId
+15.1.2024, 20:15:06 - INFO - Req was made | /:stationId
+15.1.2024, 20:15:54 - INFO - Req was made | /
+15.1.2024, 20:15:54 - DEBUG - Getting stations | {}
+15.1.2024, 20:16:16 - INFO - Req was made | /
+15.1.2024, 20:16:16 - DEBUG - Getting stations | {}
+15.1.2024, 20:16:25 - INFO - Req was made | /edit
+15.1.2024, 20:16:25 - INFO - Req was made | /edit
+15.1.2024, 20:16:25 - DEBUG - auth.service - signup with username: abc
+15.1.2024, 20:16:25 - DEBUG - auth.route - new account created: {"username":"abc","password":"$2b$10$xGiE1iiO0yEsN8d6hQ4q8OYOn6CSzd9D12eW/9WIPGXhD5WCsdSJC","email":"a@a","stations":[{"name":"Liked Songs","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"/src/assets/img/favorits.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a57679c188baf8d4997276"},{"name":"Downloaded","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"/src/assets/img/favorits.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a57679c188baf8d4997277"}],"imgUrl":"","_id":"65a57679c188baf8d4997278"}
+15.1.2024, 20:16:25 - DEBUG - auth.service - login with username: abc
+15.1.2024, 20:16:25 - INFO - Req was made | /
+15.1.2024, 20:16:25 - DEBUG - Getting stations | {}
+15.1.2024, 20:16:47 - INFO - Req was made | /
+15.1.2024, 20:16:47 - DEBUG - Getting stations | {}
+15.1.2024, 20:18:56 - INFO - Req was made | /
+15.1.2024, 20:18:56 - DEBUG - Getting stations | {}
+15.1.2024, 20:19:12 - INFO - Req was made | /edit
+15.1.2024, 20:19:12 - INFO - Req was made | /edit
+15.1.2024, 20:19:12 - DEBUG - auth.service - signup with username: abc
+15.1.2024, 20:19:12 - DEBUG - auth.route - new account created: {"username":"abc","password":"$2b$10$hnG5AdgDMqsJqOw/8fwHvObFUe4bJ.HZycz8EH9kecaHC8f.RrlYK","email":"a@aa","stations":[{"name":"Liked Songs","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"/src/assets/img/favorits.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a57720c188baf8d4997279"},{"name":"Downloaded","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"/src/assets/img/favorits.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a57720c188baf8d499727a"}],"imgUrl":"","_id":"65a57720c188baf8d499727b"}
+15.1.2024, 20:19:12 - DEBUG - auth.service - login with username: abc
+15.1.2024, 20:19:12 - INFO - Req was made | /
+15.1.2024, 20:19:12 - DEBUG - Getting stations | {}
+15.1.2024, 20:19:57 - INFO - Req was made | /
+15.1.2024, 20:19:57 - DEBUG - Getting stations | {}
+15.1.2024, 20:20:06 - INFO - Req was made | /
+15.1.2024, 20:20:06 - DEBUG - Getting stations | {}
+15.1.2024, 20:20:09 - INFO - Req was made | /
+15.1.2024, 20:20:09 - DEBUG - Getting stations | {}
+15.1.2024, 20:20:33 - DEBUG - Getting stations | {}
+15.1.2024, 20:20:33 - INFO - Req was made | /
+15.1.2024, 20:21:01 - INFO - Req was made | /edit
+15.1.2024, 20:21:01 - INFO - Req was made | /:userId
+15.1.2024, 20:25:03 - INFO - Req was made | /
+15.1.2024, 20:25:03 - DEBUG - Getting stations | {}
+15.1.2024, 20:25:06 - INFO - Req was made | /
+15.1.2024, 20:25:06 - DEBUG - Getting stations | {}
+15.1.2024, 20:25:08 - INFO - Req was made | /:stationId
+15.1.2024, 20:29:17 - INFO - Req was made | /:stationId
+15.1.2024, 20:29:19 - INFO - Req was made | /edit
+15.1.2024, 20:29:19 - INFO - Req was made | /:userId
+15.1.2024, 20:29:19 - INFO - Req was made | /:stationId
+15.1.2024, 20:29:19 - INFO - Req was made | /:stationId
+15.1.2024, 20:29:24 - INFO - Req was made | /:stationId
+15.1.2024, 20:29:45 - INFO - Req was made | /edit
+15.1.2024, 20:29:45 - INFO - Req was made | /:userId
+15.1.2024, 20:29:45 - INFO - Req was made | /:stationId
+15.1.2024, 20:29:46 - INFO - Req was made | /:stationId
+15.1.2024, 20:30:04 - INFO - Req was made | /:stationId
+15.1.2024, 20:32:59 - INFO - Req was made | /:stationId
+15.1.2024, 20:33:22 - INFO - Req was made | /:stationId
+15.1.2024, 20:39:22 - DEBUG - Getting stations | {}
+15.1.2024, 20:39:22 - INFO - Req was made | /
+15.1.2024, 20:40:47 - INFO - Req was made | /
+15.1.2024, 20:40:47 - DEBUG - Getting stations | {}
+15.1.2024, 20:40:54 - INFO - Req was made | /
+15.1.2024, 20:40:54 - DEBUG - Getting stations | {}
+15.1.2024, 20:41:41 - INFO - Req was made | /edit
+15.1.2024, 20:41:41 - INFO - Req was made | /:userId
+15.1.2024, 20:41:41 - INFO - Req was made | /:stationId
+15.1.2024, 20:41:47 - INFO - Req was made | /:stationId
+15.1.2024, 20:41:50 - INFO - Req was made | /:stationId
+15.1.2024, 20:42:54 - INFO - Req was made | /edit
+15.1.2024, 20:42:54 - INFO - Req was made | /:userId
+15.1.2024, 20:42:54 - INFO - Req was made | /:stationId
+15.1.2024, 20:42:54 - INFO - Req was made | /:stationId
+15.1.2024, 20:43:25 - INFO - Req was made | /:stationId
+15.1.2024, 20:44:49 - INFO - Server is running on port: 3030
+15.1.2024, 20:45:00 - INFO - Req was made | /:stationId
+15.1.2024, 20:45:51 - INFO - Req was made | /
+15.1.2024, 20:45:51 - DEBUG - Getting stations | {}
+15.1.2024, 20:45:59 - INFO - Req was made | /
+15.1.2024, 20:45:59 - DEBUG - Getting stations | {}
+15.1.2024, 20:49:26 - INFO - Req was made | /edit
+15.1.2024, 20:49:26 - DEBUG - auth.service - signup with username: test
+15.1.2024, 20:49:26 - INFO - Req was made | /edit
+15.1.2024, 20:49:26 - DEBUG - auth.route - new account created: {"username":"test","password":"$2b$10$vxjnu6CjvCyDZMw5YLXG1OJCrghXX1PdJqq2gBdJCbmEUoC.CsCWK","email":"a@a","stations":[{"name":"Liked Songs","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"/src/assets/img/favorits.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a57e361424bff446d6838e"},{"name":"Downloaded","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"/src/assets/img/favorits.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a57e361424bff446d6838f"}],"imgUrl":"","_id":"65a57e361424bff446d68390"}
+15.1.2024, 20:49:26 - DEBUG - auth.service - login with username: test
+15.1.2024, 20:49:26 - INFO - Req was made | /
+15.1.2024, 20:49:26 - DEBUG - Getting stations | {}
+15.1.2024, 20:52:47 - INFO - Req was made | /edit
+15.1.2024, 20:52:47 - INFO - Req was made | /:userId
+15.1.2024, 20:52:47 - INFO - Req was made | /:stationId
+15.1.2024, 20:54:23 - INFO - Req was made | /:stationId
+15.1.2024, 20:56:30 - INFO - Req was made | /
+15.1.2024, 20:56:30 - DEBUG - Getting stations | {}
+15.1.2024, 20:56:40 - DEBUG - auth.service - login with username: test
+15.1.2024, 20:56:40 - INFO - User login:  | {"_id":"65a57e361424bff446d68390","username":"test","email":"a@a","stations":[{"name":"Liked Songs","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"/src/assets/img/favorits.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a57e361424bff446d6838e"},{"name":"Downloaded","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"/src/assets/img/favorits.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a57e361424bff446d6838f"},{"name":"My station #1","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a57eff1424bff446d68391"}],"imgUrl":""}
+15.1.2024, 20:56:40 - INFO - Req was made | /
+15.1.2024, 20:56:40 - DEBUG - Getting stations | {}
+15.1.2024, 20:56:51 - INFO - Req was made | /
+15.1.2024, 20:56:51 - DEBUG - Getting stations | {}
+15.1.2024, 20:56:55 - INFO - Req was made | /edit
+15.1.2024, 20:56:55 - INFO - Req was made | /:userId
+15.1.2024, 20:56:55 - INFO - Req was made | /:stationId
+15.1.2024, 20:57:09 - INFO - Req was made | /:stationId
+15.1.2024, 20:57:46 - INFO - Req was made | /:stationId
+15.1.2024, 20:57:47 - INFO - Req was made | /:stationId
+15.1.2024, 20:57:50 - INFO - Req was made | /:stationId
+15.1.2024, 20:57:55 - INFO - Req was made | /:stationId
+15.1.2024, 20:57:58 - INFO - Req was made | /:stationId
+15.1.2024, 20:57:59 - INFO - Req was made | /:stationId
+15.1.2024, 21:02:04 - INFO - Req was made | /:stationId
+15.1.2024, 21:02:08 - INFO - Req was made | /edit
+15.1.2024, 21:02:08 - INFO - Req was made | /:userId
+15.1.2024, 21:02:08 - INFO - Req was made | /:stationId
+15.1.2024, 21:02:08 - INFO - Req was made | /:stationId
+15.1.2024, 21:02:33 - DEBUG - Getting stations | {}
+15.1.2024, 21:02:33 - INFO - Req was made | /
+15.1.2024, 21:02:39 - DEBUG - auth.service - login with username: abc
+15.1.2024, 21:02:39 - ERROR - Failed to Login Error: Invalid username or password
+15.1.2024, 21:02:50 - INFO - Req was made | /edit
+15.1.2024, 21:02:50 - INFO - Req was made | /edit
+15.1.2024, 21:02:50 - DEBUG - auth.service - signup with username: abc
+15.1.2024, 21:02:50 - DEBUG - auth.route - new account created: {"username":"abc","password":"$2b$10$2uCwqsdto4pVW465xSO3cOvUohalpsf48Op5RCp.0OA7vqosKosry","email":"a@a","stations":[{"name":"Liked Songs","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"/src/assets/img/favorits.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a5815a1424bff446d68394"},{"name":"Downloaded","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"/src/assets/img/favorits.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a5815a1424bff446d68395"}],"imgUrl":"","_id":"65a5815a1424bff446d68396"}
+15.1.2024, 21:02:50 - DEBUG - auth.service - login with username: abc
+15.1.2024, 21:02:50 - INFO - Req was made | /
+15.1.2024, 21:02:50 - DEBUG - Getting stations | {}
+15.1.2024, 21:02:54 - INFO - Req was made | /edit
+15.1.2024, 21:02:54 - INFO - Req was made | /:userId
+15.1.2024, 21:02:54 - INFO - Req was made | /:stationId
+15.1.2024, 21:06:12 - INFO - Req was made | /
+15.1.2024, 21:06:12 - DEBUG - Getting stations | {}
+15.1.2024, 21:06:21 - INFO - Req was made | /edit
+15.1.2024, 21:06:21 - DEBUG - auth.service - signup with username: abc
+15.1.2024, 21:06:21 - INFO - Req was made | /edit
+15.1.2024, 21:06:21 - DEBUG - auth.route - new account created: {"username":"abc","password":"$2b$10$YOvh2a9j.Tx7HaM0jXXlvujoFLPYR52c/wN7Ea.AONMESyHfJS1SS","email":"a@a","stations":[{"name":"Liked Songs","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"/src/assets/img/favorits.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a5822d1424bff446d68398"},{"name":"Downloaded","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"/src/assets/img/favorits.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a5822d1424bff446d68399"}],"imgUrl":"","_id":"65a5822d1424bff446d6839a"}
+15.1.2024, 21:06:21 - DEBUG - auth.service - login with username: abc
+15.1.2024, 21:06:21 - INFO - Req was made | /
+15.1.2024, 21:06:21 - DEBUG - Getting stations | {}
+15.1.2024, 21:06:32 - INFO - Req was made | /edit
+15.1.2024, 21:06:32 - INFO - Req was made | /:userId
+15.1.2024, 21:06:32 - INFO - Req was made | /:stationId
+15.1.2024, 21:07:05 - INFO - Server is running on port: 3030
+15.1.2024, 21:07:22 - DEBUG - Getting stations | {}
+15.1.2024, 21:07:22 - INFO - Req was made | /
+15.1.2024, 21:07:28 - INFO - Req was made | /edit
+15.1.2024, 21:07:28 - INFO - Req was made | /edit
+15.1.2024, 21:07:28 - DEBUG - auth.service - signup with username: abc
+15.1.2024, 21:07:28 - ERROR - Failed to signup Error: Username taken
+15.1.2024, 21:07:28 - ERROR - cannot insert user | Error: Username taken
+15.1.2024, 21:07:38 - DEBUG - auth.service - login with username: abc
+15.1.2024, 21:07:38 - INFO - User login:  | {"_id":"65a5822d1424bff446d6839a","username":"abc","email":"a@a","stations":[{"name":"Liked Songs","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"/src/assets/img/favorits.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a5822d1424bff446d68398"},{"name":"Downloaded","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"/src/assets/img/favorits.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a5822d1424bff446d68399"},{"name":"My station #1","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a582381424bff446d6839b"}],"imgUrl":""}
+15.1.2024, 21:07:38 - INFO - Req was made | /
+15.1.2024, 21:07:38 - DEBUG - Getting stations | {}
+15.1.2024, 21:07:43 - INFO - Req was made | /edit
+15.1.2024, 21:07:43 - INFO - Req was made | /:userId
+15.1.2024, 21:07:43 - INFO - Req was made | /:stationId
+15.1.2024, 21:08:11 - INFO - Req was made | /edit
+15.1.2024, 21:08:11 - INFO - Req was made | /:userId
+15.1.2024, 21:08:11 - INFO - Req was made | /:stationId
+15.1.2024, 21:08:11 - INFO - Req was made | /:stationId
+15.1.2024, 21:08:54 - INFO - Req was made | /
+15.1.2024, 21:08:54 - DEBUG - Getting stations | {}
+15.1.2024, 21:08:59 - DEBUG - auth.service - login with username: abc
+15.1.2024, 21:08:59 - INFO - User login:  | {"_id":"65a5822d1424bff446d6839a","username":"abc","email":"a@a","stations":[{"name":"Liked Songs","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"/src/assets/img/favorits.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a5822d1424bff446d68398"},{"name":"Downloaded","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"/src/assets/img/favorits.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a5822d1424bff446d68399"},{"name":"My station #1","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a582381424bff446d6839b"},{"name":"My station #2","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a5827f3bc5d92a271d70ba"},{"name":"My station #3","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a5829b3bc5d92a271d70bb"}],"imgUrl":""}
+15.1.2024, 21:08:59 - INFO - Req was made | /
+15.1.2024, 21:08:59 - DEBUG - Getting stations | {}
+15.1.2024, 21:09:09 - INFO - Req was made | /edit
+15.1.2024, 21:09:09 - INFO - Req was made | /:userId
+15.1.2024, 21:09:09 - INFO - Req was made | /:stationId
+15.1.2024, 21:09:13 - INFO - Req was made | /:stationId
+15.1.2024, 21:09:20 - INFO - Req was made | /:stationId
+15.1.2024, 21:09:41 - INFO - Req was made | /:stationId
+15.1.2024, 21:09:51 - INFO - Req was made | /:stationId
+15.1.2024, 21:15:13 - INFO - Req was made | /:stationId
+15.1.2024, 21:17:55 - INFO - Req was made | /:userId
+15.1.2024, 21:17:55 - INFO - Req was made | /:stationId
+15.1.2024, 21:17:55 - INFO - Req was made | /:stationId
+15.1.2024, 21:17:58 - INFO - Req was made | /:stationId
+15.1.2024, 21:19:00 - INFO - Req was made | /:stationId
+15.1.2024, 21:19:06 - INFO - Req was made | /
+15.1.2024, 21:19:06 - DEBUG - Getting stations | {}
+15.1.2024, 21:19:10 - DEBUG - Getting stations | {}
+15.1.2024, 21:19:10 - INFO - Req was made | /
+15.1.2024, 21:19:13 - INFO - Req was made | /:userId
+15.1.2024, 21:19:13 - INFO - Req was made | /:stationId
+15.1.2024, 21:19:17 - INFO - Req was made | /
+15.1.2024, 21:19:17 - DEBUG - Getting stations | {}
+15.1.2024, 21:19:31 - INFO - Req was made | /:userId
+15.1.2024, 21:19:31 - INFO - Req was made | /:stationId
+15.1.2024, 21:19:35 - INFO - Req was made | /
+15.1.2024, 21:19:35 - DEBUG - Getting stations | {}
+15.1.2024, 21:19:48 - INFO - Req was made | /:stationId
+15.1.2024, 21:19:54 - INFO - Req was made | /edit/:stationId
+15.1.2024, 21:19:54 - INFO - Req was made | /:userId
+15.1.2024, 21:19:54 - INFO - Req was made | /:stationId
+15.1.2024, 21:19:57 - INFO - Req was made | /:stationId
+15.1.2024, 21:20:24 - INFO - Req was made | /edit
+15.1.2024, 21:20:24 - INFO - Req was made | /edit/:stationId
+15.1.2024, 21:20:24 - INFO - Req was made | /:userId
+15.1.2024, 21:20:24 - INFO - Req was made | /:stationId
+15.1.2024, 21:20:37 - INFO - Req was made | /edit
+15.1.2024, 21:20:37 - INFO - Req was made | /edit/:stationId
+15.1.2024, 21:20:37 - INFO - Req was made | /:userId
+15.1.2024, 21:20:37 - INFO - Req was made | /:stationId
+15.1.2024, 21:20:39 - INFO - Req was made | /:stationId
+15.1.2024, 21:22:52 - INFO - Req was made | /:stationId
+15.1.2024, 21:22:53 - INFO - Req was made | /
+15.1.2024, 21:22:53 - DEBUG - Getting stations | {}
+15.1.2024, 21:22:54 - INFO - Req was made | /:stationId
+15.1.2024, 21:24:25 - INFO - Req was made | /edit
+15.1.2024, 21:24:25 - INFO - Req was made | /edit/:stationId
+15.1.2024, 21:24:25 - INFO - Req was made | /:userId
+15.1.2024, 21:24:25 - INFO - Req was made | /:stationId
+15.1.2024, 21:24:35 - INFO - Req was made | /edit/:stationId
+15.1.2024, 21:24:35 - INFO - Req was made | /:userId
+15.1.2024, 21:24:35 - INFO - Req was made | /:stationId
+15.1.2024, 21:24:38 - INFO - Req was made | /edit/:stationId
+15.1.2024, 21:24:38 - INFO - Req was made | /:userId
+15.1.2024, 21:24:38 - INFO - Req was made | /:stationId
+15.1.2024, 21:24:48 - INFO - Req was made | /edit
+15.1.2024, 21:24:48 - INFO - Req was made | /edit/:stationId
+15.1.2024, 21:24:48 - INFO - Req was made | /:userId
+15.1.2024, 21:24:48 - INFO - Req was made | /:stationId
+15.1.2024, 21:25:01 - INFO - Req was made | /edit
+15.1.2024, 21:25:01 - INFO - Req was made | /edit/:stationId
+15.1.2024, 21:25:01 - INFO - Req was made | /:userId
+15.1.2024, 21:25:01 - INFO - Req was made | /:stationId
+15.1.2024, 21:25:23 - INFO - Req was made | /edit
+15.1.2024, 21:25:23 - INFO - Req was made | /edit/:stationId
+15.1.2024, 21:25:23 - INFO - Req was made | /:userId
+15.1.2024, 21:25:23 - INFO - Req was made | /:stationId
+15.1.2024, 21:25:40 - INFO - Req was made | /edit
+15.1.2024, 21:25:40 - INFO - Req was made | /edit/:stationId
+15.1.2024, 21:25:40 - INFO - Req was made | /:userId
+15.1.2024, 21:25:40 - INFO - Req was made | /:stationId
+15.1.2024, 21:26:14 - INFO - Req was made | /edit
+15.1.2024, 21:26:14 - INFO - Req was made | /edit/:stationId
+15.1.2024, 21:26:14 - INFO - Req was made | /:userId
+15.1.2024, 21:26:14 - INFO - Req was made | /:stationId
+15.1.2024, 21:26:30 - INFO - Req was made | /edit
+15.1.2024, 21:26:30 - INFO - Req was made | /edit/:stationId
+15.1.2024, 21:26:30 - INFO - Req was made | /:userId
+15.1.2024, 21:26:30 - INFO - Req was made | /:stationId
+15.1.2024, 21:29:58 - INFO - Req was made | /edit
+15.1.2024, 21:29:58 - INFO - Req was made | /edit/:stationId
+15.1.2024, 21:29:59 - INFO - Req was made | /:userId
+15.1.2024, 21:29:59 - INFO - Req was made | /:stationId
+15.1.2024, 21:30:10 - INFO - Req was made | /edit
+15.1.2024, 21:30:10 - INFO - Req was made | /edit/:stationId
+15.1.2024, 21:30:10 - INFO - Req was made | /:userId
+15.1.2024, 21:30:10 - INFO - Req was made | /:stationId
+15.1.2024, 21:38:52 - DEBUG - Getting stations | {}
+15.1.2024, 21:38:52 - INFO - Req was made | /
+15.1.2024, 21:39:10 - INFO - Req was made | /:stationId
+15.1.2024, 21:39:13 - INFO - Req was made | /edit
+15.1.2024, 21:39:13 - INFO - Req was made | /:userId
+15.1.2024, 21:39:13 - INFO - Req was made | /:stationId
+15.1.2024, 21:39:13 - INFO - Req was made | /:stationId
+15.1.2024, 21:39:31 - INFO - Req was made | /edit
+15.1.2024, 21:39:31 - INFO - Req was made | /edit/:stationId
+15.1.2024, 21:39:31 - INFO - Req was made | /:userId
+15.1.2024, 21:39:31 - INFO - Req was made | /:stationId
+15.1.2024, 21:39:54 - INFO - Req was made | /edit
+15.1.2024, 21:39:54 - INFO - Req was made | /edit/:stationId
+15.1.2024, 21:39:54 - INFO - Req was made | /:userId
+15.1.2024, 21:39:54 - INFO - Req was made | /:stationId
+15.1.2024, 21:40:08 - INFO - Req was made | /edit
+15.1.2024, 21:40:08 - INFO - Req was made | /edit/:stationId
+15.1.2024, 21:40:08 - INFO - Req was made | /:userId
+15.1.2024, 21:40:08 - INFO - Req was made | /:stationId
+15.1.2024, 21:40:10 - INFO - Req was made | /edit
+15.1.2024, 21:40:10 - INFO - Req was made | /:userId
+15.1.2024, 21:40:10 - INFO - Req was made | /:stationId
+15.1.2024, 21:40:10 - INFO - Req was made | /:stationId
+15.1.2024, 21:40:10 - INFO - Req was made | /edit
+15.1.2024, 21:40:10 - INFO - Req was made | /:userId
+15.1.2024, 21:40:10 - INFO - Req was made | /:stationId
+15.1.2024, 21:40:10 - INFO - Req was made | /:stationId
+15.1.2024, 21:40:12 - INFO - Req was made | /:stationId
+15.1.2024, 21:40:14 - INFO - Req was made | /edit/:stationId
+15.1.2024, 21:40:14 - INFO - Req was made | /edit/:stationId
+15.1.2024, 21:40:14 - INFO - Req was made | /:userId
+15.1.2024, 21:40:14 - INFO - Req was made | /:stationId
+15.1.2024, 21:40:17 - INFO - Req was made | /edit/:stationId
+15.1.2024, 21:40:17 - INFO - Req was made | /edit/:stationId
+15.1.2024, 21:40:17 - INFO - Req was made | /:userId
+15.1.2024, 21:40:17 - INFO - Req was made | /:stationId
+15.1.2024, 21:40:22 - INFO - Req was made | /
+15.1.2024, 21:40:22 - DEBUG - Getting stations | {}
+15.1.2024, 21:40:34 - INFO - Req was made | /
+15.1.2024, 21:40:34 - DEBUG - Getting stations | {}
+15.1.2024, 21:44:18 - INFO - Req was made | /
+15.1.2024, 21:44:18 - DEBUG - Getting stations | {}
+15.1.2024, 21:44:30 - INFO - Req was made | /
+15.1.2024, 21:44:30 - DEBUG - Getting stations | {}
+15.1.2024, 21:44:32 - INFO - Req was made | /:stationId
+15.1.2024, 21:44:33 - INFO - Req was made | /:stationId
+15.1.2024, 21:44:34 - INFO - Req was made | /:stationId
+15.1.2024, 21:44:35 - INFO - Req was made | /:stationId
+15.1.2024, 21:44:36 - INFO - Req was made | /:stationId
+15.1.2024, 21:47:57 - INFO - Server is running on port: 3030
+15.1.2024, 21:48:01 - INFO - Server is running on port: 3030
+15.1.2024, 21:48:11 - INFO - Req was made | /
+15.1.2024, 21:48:11 - DEBUG - Getting stations | {}
+15.1.2024, 21:48:36 - INFO - Server is running on port: 3030
+15.1.2024, 21:48:39 - INFO - Server is running on port: 3030
+15.1.2024, 21:49:22 - INFO - Req was made | /
+15.1.2024, 21:49:22 - ERROR - Failed to get stations | ReferenceError: name is not defined
+15.1.2024, 22:16:45 - INFO - Server is running on port: 3030
+15.1.2024, 22:16:47 - INFO - Server is running on port: 3030
+15.1.2024, 22:19:20 - INFO - Req was made | /
+15.1.2024, 22:19:20 - ERROR - Failed to get stations | ReferenceError: name is not defined
+15.1.2024, 22:19:42 - INFO - Server is running on port: 3030
+15.1.2024, 22:19:48 - INFO - Server is running on port: 3030
+15.1.2024, 22:19:56 - INFO - Req was made | /
+15.1.2024, 22:19:56 - ERROR - Failed to get stations | ReferenceError: name is not defined
+15.1.2024, 22:20:22 - INFO - Server is running on port: 3030
+15.1.2024, 22:20:26 - INFO - Server is running on port: 3030
+15.1.2024, 22:20:31 - INFO - Req was made | /
+15.1.2024, 22:20:31 - ERROR - Failed to get stations | ReferenceError: name is not defined
+15.1.2024, 22:20:53 - INFO - Server is running on port: 3030
+15.1.2024, 22:20:55 - INFO - Server is running on port: 3030
+15.1.2024, 22:20:59 - DEBUG - Getting stations | {}
+15.1.2024, 22:20:59 - INFO - Req was made | /
+15.1.2024, 22:21:27 - INFO - Server is running on port: 3030
+15.1.2024, 22:21:45 - INFO - Req was made | /
+15.1.2024, 22:21:45 - DEBUG - Getting stations | {}
+15.1.2024, 22:21:49 - INFO - Req was made | /
+15.1.2024, 22:21:49 - DEBUG - Getting stations | {}
+15.1.2024, 22:22:36 - DEBUG - Getting stations | {}
+15.1.2024, 22:22:36 - INFO - Req was made | /
+15.1.2024, 22:24:03 - INFO - Req was made | /edit
+15.1.2024, 22:24:03 - INFO - Req was made | /edit
+15.1.2024, 22:24:03 - DEBUG - auth.service - signup with username: abc
+15.1.2024, 22:24:03 - DEBUG - auth.service - login with username: abc
+15.1.2024, 22:24:03 - DEBUG - auth.route - new account created: {"username":"abc","password":"$2b$10$bM7bOlVVV9r/2jvRg5dNduYmonDsGpTUuxxmX14yE8eaMmyNaNoEe","email":"a@a","stations":[{"name":"Liked Songs","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"/src/assets/img/favorits.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a59463ab7411137f8f73d1"},{"name":"Downloaded","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"/src/assets/img/favorits.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a59463ab7411137f8f73d2"}],"imgUrl":"","_id":"65a59463ab7411137f8f73d3"}
+15.1.2024, 22:24:03 - DEBUG - Getting stations | {}
+15.1.2024, 22:24:03 - INFO - Req was made | /
+15.1.2024, 22:25:26 - INFO - Req was made | /edit
+15.1.2024, 22:25:26 - INFO - Req was made | /:userId
+15.1.2024, 22:25:26 - INFO - Req was made | /:stationId
+15.1.2024, 22:25:32 - INFO - Req was made | /edit/:stationId
+15.1.2024, 22:25:32 - INFO - Req was made | /:userId
+15.1.2024, 22:25:32 - INFO - Req was made | /:stationId
+15.1.2024, 22:25:59 - INFO - Req was made | /edit/:stationId
+15.1.2024, 22:25:59 - INFO - Req was made | /:userId
+15.1.2024, 22:25:59 - INFO - Req was made | /:stationId
+15.1.2024, 22:26:20 - INFO - Req was made | /
+15.1.2024, 22:26:20 - DEBUG - Getting stations | {}
+15.1.2024, 22:26:32 - INFO - Req was made | /:stationId
+15.1.2024, 22:26:38 - INFO - Req was made | /edit/:stationId
+15.1.2024, 22:26:38 - INFO - Req was made | /:userId
+15.1.2024, 22:26:38 - INFO - Req was made | /:stationId
+15.1.2024, 22:26:59 - INFO - Req was made | /edit/:stationId
+15.1.2024, 22:26:59 - INFO - Req was made | /:userId
+15.1.2024, 22:26:59 - INFO - Req was made | /:stationId
+15.1.2024, 22:28:47 - INFO - Req was made | /
+15.1.2024, 22:28:47 - DEBUG - Getting stations | {}
+15.1.2024, 22:28:48 - DEBUG - Getting stations | {}
+15.1.2024, 22:28:48 - INFO - Req was made | /
