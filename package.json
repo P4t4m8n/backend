@@ -19,7 +19,12 @@
     "nodemon": "^3.0.2",
     "cookie-parser": "^1.4.6",
     "fs": "^0.0.1-security",
-    "fs-js": "^1.0.6"
+    "fs-js": "^1.0.6",
+    "socket.io": "^4.2.0",
+    "cryptr": "^6.3.0",
+    "bcrypt": "^5.0.0"
+
+
 
   }
 }

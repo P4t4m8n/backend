@@ -4,10 +4,7 @@ import { stationService } from './station.service.js'
 export async function getStations(req, res) {
 
     try {
-        const { name, artist } = req.query
-        const filterSortBy = {
-            name,
-            artist,
+        const filterSortBy = {          
         }
         loggerService.debug('Getting stations', filterSortBy)
         const stations = await stationService.query(filterSortBy)
@@ -37,7 +34,6 @@ export async function getStationById(req, res) {
 export async function addStation(req, res) {
 
     const { name, stationListTitle, type, tags, imgUrl, createdBy, duration, likedByUsers, songs } = req.body
-    console.log("req.body:", req.body)
 
     try {
 

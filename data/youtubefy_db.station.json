@@ -1,1082 +1,295 @@
-[
-  {
-    "_id": {
-      "$oid": "65a255fdccba89014a5fd5b7"
-    },
-    "name": "Chill Vibes",
-    "stationListTitle": "Made for you",
-    "type": "Playlist",
-    "tags": [
-      "chill",
-      "ambient",
-      "relax"
-    ],
-    "imgUrl": "/src/assets/img/11.jpeg",
-    "createdBy": "User1",
-    "likedByUsers": 150,
-    "songs": [
-      {
-        "_id": {
-          "$oid": "65a3e365c73e9c5b23d7118c"
-        },
-        "name": "You Are The Right One (Official Music Video)",
-        "artist": "Sports",
-        "type": "song",
-        "duration": "Invalid format",
-        "trackId": "Y_hdQXQfsNg",
-        "imgUrl": "https://i.ytimg.com/vi/Y_hdQXQfsNg/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705239397328"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3e366c73e9c5b23d7118d"
-        },
-        "name": "Unknown",
-        "artist": "Unknown",
-        "type": "song",
-        "duration": "3:24",
-        "trackId": "cnUEGS-4hq4",
-        "imgUrl": "https://i.ytimg.com/vi/cnUEGS-4hq4/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705239398014"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3e366c73e9c5b23d7118e"
-        },
-        "name": "Sport Billy",
-        "artist": "Booba",
-        "type": "song",
-        "duration": "2:15",
-        "trackId": "Oeas42BUBYw",
-        "imgUrl": "https://i.ytimg.com/vi/Oeas42BUBYw/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705239398609"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3e367c73e9c5b23d7118f"
-        },
-        "name": "Sport (Official Video)",
-        "artist": "Apache 207",
-        "type": "song",
-        "duration": "3:28",
-        "trackId": "LP4DHo_NWEQ",
-        "imgUrl": "https://i.ytimg.com/vi/LP4DHo_NWEQ/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705239399189"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3e36bc73e9c5b23d71190"
-        },
-        "name": "🔴 Relaxing Zen Music 24/7, Stress Relief Music, Sleep Music, Meditation Music, Study, Calming Music",
-        "artist": "Unknown",
-        "type": "song",
-        "duration": "Invalid format",
-        "trackId": "xwNsWyxk4T0",
-        "imgUrl": "https://i.ytimg.com/vi/xwNsWyxk4T0/hqdefault_live.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705239403677"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3e36cc73e9c5b23d71191"
-        },
-        "name": "12 Hours of Relaxing Sleep Music for Stress Relief, Sleeping &amp; Meditation (Flying)",
-        "artist": "Unknown",
-        "type": "song",
-        "duration": "Invalid format",
-        "trackId": "lh4JdZTJe7k",
-        "imgUrl": "https://i.ytimg.com/vi/lh4JdZTJe7k/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705239404239"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3e36cc73e9c5b23d71192"
-        },
-        "name": "Heart Chakra Healing Music | Attract Love in All Forms | Anahata Chakra Meditation Music",
-        "artist": "Unknown",
-        "type": "song",
-        "duration": "Invalid format",
-        "trackId": "q1Ng7FgDsNQ",
-        "imgUrl": "https://i.ytimg.com/vi/q1Ng7FgDsNQ/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705239404795"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3e36dc73e9c5b23d71193"
-        },
-        "name": "Flying: Relaxing Sleep Music • Deep Sleeping Music, Relaxing Music, Stress Relief, Meditation Music",
-        "artist": "Unknown",
-        "type": "song",
-        "duration": "Invalid format",
-        "trackId": "1ZYbU82GVz4",
-        "imgUrl": "https://i.ytimg.com/vi/1ZYbU82GVz4/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705239405742"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3e36ec73e9c5b23d71194"
-        },
-        "name": "Guided Sleep Meditation to HEAL Anxiety and Let Go Of Worries, Crystal Hot Tub",
-        "artist": "Unknown",
-        "type": "song",
-        "duration": "Invalid format",
-        "trackId": "-ry06ed6Xfk",
-        "imgUrl": "https://i.ytimg.com/vi/-ry06ed6Xfk/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705239406246"
-        },
-        "likedByUsers": []
-      }
-    ]
+[{
+  "_id": {
+    "$oid": "65a582381424bff446d6839b"
   },
-  {
-    "_id": {
-      "$oid": "65a255fdccba89014a5fd5b8"
-    },
-    "name": "Workout Hits",
-    "stationListTitle": "Made for you",
-    "type": "Playlist",
-    "tags": [
-      "workout",
-      "energetic",
-      "pop"
-    ],
-    "imgUrl": "/src/assets/img/12.jpeg",
-    "createdBy": "User2",
-    "likedByUsers": 200,
-    "songs": [
-      {
-        "_id": {
-          "$oid": "65a3da13c73e9c5b23d71182"
-        },
-        "name": "Queen, Nirvana, Metallica, Bon Jovi, Scorpions, AC/DC, GNR, Led Zeppelin ⚡ Classic Rock 70s 80s 90s",
-        "artist": "Unknown",
-        "type": "song",
-        "duration": "Invalid format",
-        "trackId": "VmKxAZigHA4",
-        "imgUrl": "https://i.ytimg.com/vi/VmKxAZigHA4/hqdefault_live.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705237011089"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3da13c73e9c5b23d71183"
-        },
-        "name": "2000s songs Boyband",
-        "artist": "Slow Rock Songs",
-        "type": "song",
-        "duration": "Invalid format",
-        "trackId": "kPV-Kd4ebps",
-        "imgUrl": "https://i.ytimg.com/vi/kPV-Kd4ebps/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705237011801"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3e355c73e9c5b23d71186"
-        },
-        "name": "HIP HOP NEW 🧨🧨 Snoop Dogg, Ice Cube, Pop Smoke, 2Pac, 50 Cent, DMX, Eazy E, Biggie, Dr Dre, NWA",
-        "artist": "Unknown",
-        "type": "song",
-        "duration": "Invalid format",
-        "trackId": "_hPbVGal7AE",
-        "imgUrl": "https://i.ytimg.com/vi/_hPbVGal7AE/hqdefault_live.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705239381629"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3e356c73e9c5b23d71187"
-        },
-        "name": "New (Lyrics / Lyrics Video)",
-        "artist": "Daya",
-        "type": "song",
-        "duration": "4:1",
-        "trackId": "NCclOXqCxA8",
-        "imgUrl": "https://i.ytimg.com/vi/NCclOXqCxA8/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705239382422"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3e357c73e9c5b23d71188"
-        },
-        "name": "NEW K-POP SONGS | JANUARY 2024 (WEEK 2)",
-        "artist": "Unknown",
-        "type": "song",
-        "duration": "8:57",
-        "trackId": "flknTE_8z5k",
-        "imgUrl": "https://i.ytimg.com/vi/flknTE_8z5k/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705239383110"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3e357c73e9c5b23d71189"
-        },
-        "name": "New Rules (Official Music Video)",
-        "artist": "Dua Lipa",
-        "type": "song",
-        "duration": "3:45",
-        "trackId": "k2qgadSvNyU",
-        "imgUrl": "https://i.ytimg.com/vi/k2qgadSvNyU/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705239383989"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3e358c73e9c5b23d7118a"
-        },
-        "name": "New Flame (Official Video) ft. Usher, Rick Ross",
-        "artist": "Chris Brown",
-        "type": "song",
-        "duration": "4:11",
-        "trackId": "HwctEiWLe84",
-        "imgUrl": "https://i.ytimg.com/vi/HwctEiWLe84/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705239384649"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3e364c73e9c5b23d7118b"
-        },
-        "name": "Sports (Official Audio)",
-        "artist": "Beach Bunny",
-        "type": "song",
-        "duration": "2:45",
-        "trackId": "szeXkBYq5HU",
-        "imgUrl": "https://i.ytimg.com/vi/szeXkBYq5HU/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705239396567"
-        },
-        "likedByUsers": []
-      }
-    ]
+  "name": "Discover Weekly",
+  "stationListTitle": "Made for you",
+  "type": "playlist",
+  "tags": [],
+  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705350332/fxslryvz4zqsx7pfkcpj.jpg",
+  "createdBy": {
+    "_id": "",
+    "username": "TubeFy"
   },
-  {
-    "_id": {
-      "$oid": "65a255fdccba89014a5fd5b9"
+  "likedByUsers": 0,
+  "songs": [
+    {
+      "name": "Flowers ",
+      "artist": "Miley Cyrus",
+      "type": "song",
+      "duration": "03:22",
+      "trackId": "G7KNmW9a75Y",
+      "imgUrl": "https://i.ytimg.com/vi/G7KNmW9a75Y/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705346665264"
+      },
+      "likedByUsers": [],
+      "_id": "65a586693bc5d92a271d70bf"
     },
-    "name": "Rock Anthems",
-    "stationListTitle": "Made for you",
-    "type": "Playlist",
-    "tags": [
-      "rock",
-      "classic",
-      "anthem"
-    ],
-    "imgUrl": "/src/assets/img/13.jpeg",
-    "createdBy": "User3",
-    "likedByUsers": 250,
-    "songs": [
-      {
-        "_id": {
-          "$oid": "65a3da13c73e9c5b23d71182"
-        },
-        "name": "Queen, Nirvana, Metallica, Bon Jovi, Scorpions, AC/DC, GNR, Led Zeppelin ⚡ Classic Rock 70s 80s 90s",
-        "artist": "Unknown",
-        "type": "song",
-        "duration": "Invalid format",
-        "trackId": "VmKxAZigHA4",
-        "imgUrl": "https://i.ytimg.com/vi/VmKxAZigHA4/hqdefault_live.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705237011089"
-        },
-        "likedByUsers": []
+    {
+      "name": "Kill Bill ",
+      "artist": "SZA",
+      "type": "song",
+      "duration": "04:36",
+      "trackId": "MSRcC626prw",
+      "imgUrl": "https://i.ytimg.com/vi/MSRcC626prw/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705346688501"
       },
-      {
-        "_id": {
-          "$oid": "65a3da13c73e9c5b23d71183"
-        },
-        "name": "2000s songs Boyband",
-        "artist": "Slow Rock Songs",
-        "type": "song",
-        "duration": "Invalid format",
-        "trackId": "kPV-Kd4ebps",
-        "imgUrl": "https://i.ytimg.com/vi/kPV-Kd4ebps/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705237011801"
-        },
-        "likedByUsers": []
+      "likedByUsers": [],
+      "_id": "65a586803bc5d92a271d70c0"
+    },
+    {
+      "name": "As It Was ",
+      "artist": "Harry Styles",
+      "type": "song",
+      "duration": "02:46",
+      "trackId": "H5v3kku4y6Q",
+      "imgUrl": "https://i.ytimg.com/vi/H5v3kku4y6Q/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705346701331"
       },
-      {
-        "_id": {
-          "$oid": "65a3e355c73e9c5b23d71186"
-        },
-        "name": "HIP HOP NEW 🧨🧨 Snoop Dogg, Ice Cube, Pop Smoke, 2Pac, 50 Cent, DMX, Eazy E, Biggie, Dr Dre, NWA",
-        "artist": "Unknown",
-        "type": "song",
-        "duration": "Invalid format",
-        "trackId": "_hPbVGal7AE",
-        "imgUrl": "https://i.ytimg.com/vi/_hPbVGal7AE/hqdefault_live.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705239381629"
-        },
-        "likedByUsers": []
+      "likedByUsers": [],
+      "_id": "65a5868d3bc5d92a271d70c1"
+    },
+    {
+      "name": "Seven (feat. Latto)",
+      "artist": "Jungkook",
+      "type": "song",
+      "duration": "03:47",
+      "trackId": "QU9c0053UAU",
+      "imgUrl": "https://i.ytimg.com/vi/QU9c0053UAU/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705346723878"
       },
-      {
-        "_id": {
-          "$oid": "65a3e356c73e9c5b23d71187"
-        },
-        "name": "New (Lyrics / Lyrics Video)",
-        "artist": "Daya",
-        "type": "song",
-        "duration": "4:1",
-        "trackId": "NCclOXqCxA8",
-        "imgUrl": "https://i.ytimg.com/vi/NCclOXqCxA8/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705239382422"
-        },
-        "likedByUsers": []
+      "likedByUsers": [],
+      "_id": "65a586a33bc5d92a271d70c2"
+    },
+    {
+      "name": "Ella Baila Sola",
+      "artist": "Eslabon Armado & Peso Pluma",
+      "type": "song",
+      "duration": "03:08",
+      "trackId": "lZiaYpD9ZrI",
+      "imgUrl": "https://i.ytimg.com/vi/lZiaYpD9ZrI/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705346740420"
       },
-      {
-        "_id": {
-          "$oid": "65a3e357c73e9c5b23d71188"
-        },
-        "name": "NEW K-POP SONGS | JANUARY 2024 (WEEK 2)",
-        "artist": "Unknown",
-        "type": "song",
-        "duration": "8:57",
-        "trackId": "flknTE_8z5k",
-        "imgUrl": "https://i.ytimg.com/vi/flknTE_8z5k/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705239383110"
-        },
-        "likedByUsers": []
+      "likedByUsers": [],
+      "_id": "65a586b43bc5d92a271d70c3"
+    },
+    {
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "type": "song",
+      "duration": "03:00",
+      "trackId": "JLJcHbYSlB8",
+      "imgUrl": "https://i.ytimg.com/vi/JLJcHbYSlB8/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705346774803"
       },
-      {
-        "_id": {
-          "$oid": "65a3e357c73e9c5b23d71189"
-        },
-        "name": "New Rules (Official Music Video)",
-        "artist": "Dua Lipa",
-        "type": "song",
-        "duration": "3:45",
-        "trackId": "k2qgadSvNyU",
-        "imgUrl": "https://i.ytimg.com/vi/k2qgadSvNyU/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705239383989"
-        },
-        "likedByUsers": []
+      "likedByUsers": [],
+      "_id": "65a586d63bc5d92a271d70c4"
+    },
+    {
+      "name": "Creepin",
+      "artist": "The Weeknd",
+      "type": "song",
+      "duration": "03:41",
+      "trackId": "-UcFeTfm1oM",
+      "imgUrl": "https://i.ytimg.com/vi/-UcFeTfm1oM/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705346790729"
       },
-      {
-        "_id": {
-          "$oid": "65a3e358c73e9c5b23d7118a"
-        },
-        "name": "New Flame (Official Video) ft. Usher, Rick Ross",
-        "artist": "Chris Brown",
-        "type": "song",
-        "duration": "4:11",
-        "trackId": "HwctEiWLe84",
-        "imgUrl": "https://i.ytimg.com/vi/HwctEiWLe84/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705239384649"
-        },
-        "likedByUsers": []
+      "likedByUsers": [],
+      "_id": "65a586e63bc5d92a271d70c5"
+    },
+    {
+      "name": "BZRP Music Sessions 53",
+      "artist": "SHAKIRA",
+      "type": "song",
+      "duration": "04:40",
+      "trackId": "qSSg1EAImm4",
+      "imgUrl": "https://i.ytimg.com/vi/qSSg1EAImm4/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705346998977"
       },
-      {
-        "_id": {
-          "$oid": "65a3e364c73e9c5b23d7118b"
-        },
-        "name": "Sports (Official Audio)",
-        "artist": "Beach Bunny",
-        "type": "song",
-        "duration": "2:45",
-        "trackId": "szeXkBYq5HU",
-        "imgUrl": "https://i.ytimg.com/vi/szeXkBYq5HU/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705239396567"
-        },
-        "likedByUsers": []
-      }
-    ]
+      "likedByUsers": [],
+      "_id": "65a587b63bc5d92a271d70c6"
+    },
+    {
+      "name": "Anti-Hero ",
+      "artist": "Taylor Swift",
+      "type": "song",
+      "duration": "05:10",
+      "trackId": "b1kbLwvqugk",
+      "imgUrl": "https://i.ytimg.com/vi/b1kbLwvqugk/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705347010109"
+      },
+      "likedByUsers": [],
+      "_id": "65a587c23bc5d92a271d70c7"
+    }
+  ],
+  "duration": "00:34:10",
+  "description":"Rock out while you game"
+},
+{
+  "_id": {
+    "$oid": "65a589e13bc5d92a271d70c8"
   },
-  {
-    "_id": {
-      "$oid": "65a255fdccba89014a5fd5ba"
-    },
-    "name": "Jazz Evenings",
-    "stationListTitle": "Made for you",
-    "type": "Playlist",
-    "tags": [],
-    "imgUrl": "/src/assets/img/14.jpeg",
-    "createdBy": "User4",
-    "likedByUsers": 180,
-    "songs": [
-      {
-        "_id": {
-          "$oid": "65a3a72ec73e9c5b23d71170"
-        },
-        "name": "Psychosocial [OFFICIAL VIDEO] [HD]",
-        "artist": "Slipknot",
-        "type": "song",
-        "duration": "5:3",
-        "trackId": "5abamRO41fE",
-        "imgUrl": "https://i.ytimg.com/vi/5abamRO41fE/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705223982398"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3a72fc73e9c5b23d71171"
-        },
-        "name": "Tears Don&#39;t Fall (Official Video)",
-        "artist": "Bullet For My Valentine",
-        "type": "song",
-        "duration": "4:38",
-        "trackId": "9sTQ0QdkN3Q",
-        "imgUrl": "https://i.ytimg.com/vi/9sTQ0QdkN3Q/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705223983900"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3a730c73e9c5b23d71172"
-        },
-        "name": "NUCLEAR BLAST RECORDS",
-        "artist": "METAL 24/7 Live Stream",
-        "type": "song",
-        "duration": "Invalid format",
-        "trackId": "lCjVa1c5zKw",
-        "imgUrl": "https://i.ytimg.com/vi/lCjVa1c5zKw/hqdefault_live.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705223984740"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3a731c73e9c5b23d71173"
-        },
-        "name": "The Eagle Flies Alone (OFFICIAL VIDEO)",
-        "artist": "ARCH ENEMY",
-        "type": "song",
-        "duration": "Invalid format",
-        "trackId": "mjF1rmSV1dM",
-        "imgUrl": "https://i.ytimg.com/vi/mjF1rmSV1dM/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705223985417"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3b6d3c73e9c5b23d71178"
-        },
-        "name": "דמיון חופשי",
-        "artist": "אביתר בנאי",
-        "type": "song",
-        "duration": "3:22",
-        "trackId": "uQgEfSCh4ZU",
-        "imgUrl": "https://i.ytimg.com/vi/uQgEfSCh4ZU/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705227987131"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3d33cc73e9c5b23d7117b"
-        },
-        "name": "גוליית",
-        "artist": "כוורת",
-        "type": "song",
-        "duration": "3:25",
-        "trackId": "B0xWYu3zasE",
-        "imgUrl": "https://i.ytimg.com/vi/B0xWYu3zasE/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705235260209"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3d33dc73e9c5b23d7117c"
-        },
-        "name": "נתתי לה חיי",
-        "artist": "כוורת",
-        "type": "song",
-        "duration": "2:58",
-        "trackId": "orkXG-xXO-k",
-        "imgUrl": "https://i.ytimg.com/vi/orkXG-xXO-k/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705235261653"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3d33ec73e9c5b23d7117d"
-        },
-        "name": "יו יה",
-        "artist": "כוורת",
-        "type": "song",
-        "duration": "3:57",
-        "trackId": "0L5ihXoFqYU",
-        "imgUrl": "https://i.ytimg.com/vi/0L5ihXoFqYU/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705235262280"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3da10c73e9c5b23d7117f"
-        },
-        "name": "Queen, Nirvana, Metallica, Bon Jovi, Scorpions, AC/DC, GNR, Led Zeppelin ⚡ Classic Rock 70s 80s 90s",
-        "artist": "Unknown",
-        "type": "song",
-        "duration": "Invalid format",
-        "trackId": "e_X4_eL05AU",
-        "imgUrl": "https://i.ytimg.com/vi/e_X4_eL05AU/hqdefault_live.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705237008899"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3da11c73e9c5b23d71180"
-        },
-        "name": "Thunderstruck (Official Video)",
-        "artist": "AC/DC",
-        "type": "song",
-        "duration": "4:53",
-        "trackId": "v2AC41dglnM",
-        "imgUrl": "https://i.ytimg.com/vi/v2AC41dglnM/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705237009728"
-        },
-        "likedByUsers": []
-      },
-      {
-        "_id": {
-          "$oid": "65a3da12c73e9c5b23d71181"
-        },
-        "name": "Coldplay, Linkin park, Creed, AudioSlave, Hinder, Evanescence, Nickelback 🔥🔥 Alternative Rock",
-        "artist": "Unknown",
-        "type": "song",
-        "duration": "Invalid format",
-        "trackId": "rL5MhCWXZKA",
-        "imgUrl": "https://i.ytimg.com/vi/rL5MhCWXZKA/hqdefault.jpg",
-        "addedBy": "artist",
-        "addedAt": {
-          "$numberLong": "1705237010473"
-        },
-        "likedByUsers": []
-      }
-    ]
+  "name": "Release Rader",
+  "stationListTitle": "Made for you",
+  "type": "playlist",
+  "tags": [],
+  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705350359/k4sav5v7ub8steedawvp.jpg",
+  "createdBy": {
+    "_id": "",
+    "username": "TubeFy"
   },
-  {
-    "_id": {
-      "$oid": "65a255fdccba89014a5fd5bb"
-    },
-    "name": "Electro Beats",
-    "stationListTitle": "Made for you",
-    "type": "Playlist",
-    "tags": [
-      "electronic",
-      "dance",
-      "EDM"
-    ],
-    "imgUrl": "/src/assets/img/15.jpeg",
-    "createdBy": "User5",
-    "likedByUsers": 300,
-    "songs": [
-      [
-        {
-          "_id": {
-            "$oid": "65a2b88bc4390ff4d640d76d"
-          },
-          "name": "הכוכבים דולקים על אש קטנה 1990",
-          "artist": "משינה",
-          "type": "song",
-          "duration": "3:27",
-          "trackId": "FilQhY2Pjq0",
-          "imgUrl": "https://i.ytimg.com/vi/FilQhY2Pjq0/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705162891081"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a2bc53c4390ff4d640d770"
-          },
-          "name": "הכוכבים דולקים על אש קטנה 1990",
-          "artist": "משינה",
-          "type": "song",
-          "duration": "3:27",
-          "trackId": "FilQhY2Pjq0",
-          "imgUrl": "https://i.ytimg.com/vi/FilQhY2Pjq0/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705163859582"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a2bcf5c4390ff4d640d771"
-          },
-          "name": "רכבת לילה 1985",
-          "artist": "משינה",
-          "type": "song",
-          "duration": "3:42",
-          "trackId": "IOSmBOsGRMc",
-          "imgUrl": "https://i.ytimg.com/vi/IOSmBOsGRMc/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705164021515"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a2be96c4390ff4d640d772"
-          },
-          "name": "רכבת לילה 1985",
-          "artist": "משינה",
-          "type": "song",
-          "duration": "3:42",
-          "trackId": "IOSmBOsGRMc",
-          "imgUrl": "https://i.ytimg.com/vi/IOSmBOsGRMc/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705164438834"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a2c33bb1bc04c870481644"
-          },
-          "name": "זה היה ביתי",
-          "artist": "אינפקציה",
-          "type": "song",
-          "duration": "2:42",
-          "trackId": "zab3SereSz8",
-          "imgUrl": "https://i.ytimg.com/vi/zab3SereSz8/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705165627444"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a2c461b1bc04c870481645"
-          },
-          "name": "Unknown",
-          "artist": "Unknown",
-          "type": "song",
-          "duration": "3:28",
-          "trackId": "wnu3te5ule0",
-          "imgUrl": "https://i.ytimg.com/vi/wnu3te5ule0/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705165921793"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a2c4e0b1bc04c870481646"
-          },
-          "name": "Symphony Of Destruction",
-          "artist": "Unknown",
-          "type": "song",
-          "duration": "4:7",
-          "trackId": "WdoXZf-FZyA",
-          "imgUrl": "https://i.ytimg.com/vi/WdoXZf-FZyA/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705166048341"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a2d246b1bc04c870481679"
-          },
-          "name": "להקת כוורת-מיטב השירים היפים חלק 1(מתוך 2)-כל שירי הלהקה היפים של כוורת באוסף אחד-להאזנה ברצף",
-          "artist": "Unknown",
-          "type": "song",
-          "duration": "Invalid format",
-          "trackId": "VrtVs5OAtMM",
-          "imgUrl": "https://i.ytimg.com/vi/VrtVs5OAtMM/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705169478689"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a2e109b1bc04c870481688"
-          },
-          "name": "Without Me (Official Music Video)",
-          "artist": "Eminem",
-          "type": "song",
-          "duration": "4:58",
-          "trackId": "YVkUvmDQ3HY",
-          "imgUrl": "https://i.ytimg.com/vi/YVkUvmDQ3HY/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705173257899"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a2f900b1bc04c870481689"
-          },
-          "name": "היא התווכחה איתו שעות 1986",
-          "artist": "משינה",
-          "type": "song",
-          "duration": "4:53",
-          "trackId": "LWD30iw7Diw",
-          "imgUrl": "https://i.ytimg.com/vi/LWD30iw7Diw/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705179392039"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a2f902b1bc04c87048168a"
-          },
-          "name": "משינה-מיטב השירים היפים חלק 1(מתוך 2)-כל שירי הלהקה היפים של משינה באוסף אחד להאזנה ברצף",
-          "artist": "Unknown",
-          "type": "song",
-          "duration": "Invalid format",
-          "trackId": "lUhqYWqnDGg",
-          "imgUrl": "https://i.ytimg.com/vi/lUhqYWqnDGg/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705179394532"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a2fb0ab1bc04c87048168d"
-          },
-          "name": "משהו קטן וטוב",
-          "artist": "משינה",
-          "type": "song",
-          "duration": "4:46",
-          "trackId": "B5Ezz8SEvCg",
-          "imgUrl": "https://i.ytimg.com/vi/B5Ezz8SEvCg/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705179914790"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a30289b1bc04c870481694"
-          },
-          "name": "בתוך נייר עיתון ~הקליפ הרשמי",
-          "artist": "טיפקס",
-          "type": "song",
-          "duration": "3:23",
-          "trackId": "DRXOUwYVkeQ",
-          "imgUrl": "https://i.ytimg.com/vi/DRXOUwYVkeQ/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705181833229"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a3028ab1bc04c870481695"
-          },
-          "name": "Unknown",
-          "artist": "Unknown",
-          "type": "song",
-          "duration": "5:6",
-          "trackId": "NblAQYrvHG8",
-          "imgUrl": "https://i.ytimg.com/vi/NblAQYrvHG8/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705181834820"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a3028cb1bc04c870481696"
-          },
-          "name": "Unknown",
-          "artist": "Unknown",
-          "type": "song",
-          "duration": "3:7",
-          "trackId": "ayetZkOsEMg",
-          "imgUrl": "https://i.ytimg.com/vi/ayetZkOsEMg/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705181836057"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a31c32b1bc04c870481698"
-          },
-          "name": "A Tout Le Monde (Official Music Video)",
-          "artist": "Megadeth",
-          "type": "song",
-          "duration": "4:14",
-          "trackId": "aU-dKoFZT0A",
-          "imgUrl": "https://i.ytimg.com/vi/aU-dKoFZT0A/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705188402424"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a31c32b1bc04c870481699"
-          },
-          "name": "Holy Wars...The Punishment Due",
-          "artist": "Megadeth",
-          "type": "song",
-          "duration": "6:38",
-          "trackId": "9d4ui9q7eDM",
-          "imgUrl": "https://i.ytimg.com/vi/9d4ui9q7eDM/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705188402974"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a31d60b1bc04c87048169a"
-          },
-          "name": "Mockingbird [Official Music Video]",
-          "artist": "Eminem",
-          "type": "song",
-          "duration": "4:18",
-          "trackId": "S9bCLPwzSC0",
-          "imgUrl": "https://i.ytimg.com/vi/S9bCLPwzSC0/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705188704060"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a31d61b1bc04c87048169b"
-          },
-          "name": "Rap God (Explicit)",
-          "artist": "Eminem",
-          "type": "song",
-          "duration": "6:10",
-          "trackId": "XbGs_qK2PQA",
-          "imgUrl": "https://i.ytimg.com/vi/XbGs_qK2PQA/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705188705910"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a32571b1bc04c8704816a4"
-          },
-          "name": "Unknown",
-          "artist": "Unknown",
-          "type": "song",
-          "duration": "4:29",
-          "trackId": "eJO5HU_7_1w",
-          "imgUrl": "https://i.ytimg.com/vi/eJO5HU_7_1w/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705190769314"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a3a72dc73e9c5b23d7116f"
-          },
-          "name": "It&#39;s My Life (metal cover by Leo Moracchioli)",
-          "artist": "Unknown",
-          "type": "song",
-          "duration": "4:51",
-          "trackId": "BeeT6o0uXAA",
-          "imgUrl": "https://i.ytimg.com/vi/BeeT6o0uXAA/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705223981645"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a3a72ec73e9c5b23d71170"
-          },
-          "name": "Psychosocial [OFFICIAL VIDEO] [HD]",
-          "artist": "Slipknot",
-          "type": "song",
-          "duration": "5:3",
-          "trackId": "5abamRO41fE",
-          "imgUrl": "https://i.ytimg.com/vi/5abamRO41fE/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705223982398"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a3a72fc73e9c5b23d71171"
-          },
-          "name": "Tears Don&#39;t Fall (Official Video)",
-          "artist": "Bullet For My Valentine",
-          "type": "song",
-          "duration": "4:38",
-          "trackId": "9sTQ0QdkN3Q",
-          "imgUrl": "https://i.ytimg.com/vi/9sTQ0QdkN3Q/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705223983900"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a3a730c73e9c5b23d71172"
-          },
-          "name": "NUCLEAR BLAST RECORDS",
-          "artist": "METAL 24/7 Live Stream",
-          "type": "song",
-          "duration": "Invalid format",
-          "trackId": "lCjVa1c5zKw",
-          "imgUrl": "https://i.ytimg.com/vi/lCjVa1c5zKw/hqdefault_live.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705223984740"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a3a731c73e9c5b23d71173"
-          },
-          "name": "The Eagle Flies Alone (OFFICIAL VIDEO)",
-          "artist": "ARCH ENEMY",
-          "type": "song",
-          "duration": "Invalid format",
-          "trackId": "mjF1rmSV1dM",
-          "imgUrl": "https://i.ytimg.com/vi/mjF1rmSV1dM/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705223985417"
-          },
-          "likedByUsers": []
-        },
-        {
-          "_id": {
-            "$oid": "65a3b6d3c73e9c5b23d71178"
-          },
-          "name": "דמיון חופשי",
-          "artist": "אביתר בנאי",
-          "type": "song",
-          "duration": "3:22",
-          "trackId": "uQgEfSCh4ZU",
-          "imgUrl": "https://i.ytimg.com/vi/uQgEfSCh4ZU/hqdefault.jpg",
-          "addedBy": "artist",
-          "addedAt": {
-            "$numberLong": "1705227987131"
-          },
-          "likedByUsers": []
-        }
-      ]
-    ]
-  }
-]
+  "likedByUsers": 0,
+  "songs": [
+    {
+      "name": "Sheena Is A Punk Rocker",
+      "artist": "Ramones",
+      "type": "song",
+      "duration": "02:56",
+      "trackId": "yCW7Aw8ugOI",
+      "imgUrl": "https://i.ytimg.com/vi/yCW7Aw8ugOI/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705347571892"
+      },
+      "likedByUsers": [],
+      "_id": "65a589f33bc5d92a271d70c9"
+    }
+  ],
+  "duration": "00:02:56",
+  "description":"Your weekly mixtape of fresh msuic and..."
+},
+{
+  "_id": {
+    "$oid": "65a58a1a3bc5d92a271d70cc"
+  },
+  "name": "New around you",
+  "stationListTitle": "Made for you",
+  "type": "playlist",
+  "tags": [],
+  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705350398/gia4lojfs0s94n09wisi.jpg",
+  "createdBy": {
+    "_id": "",
+    "username": "TubeFy"
+  },
+  "likedByUsers": 0,
+  "songs": [
+    {
+      "name": "What Do I Get?",
+      "artist": "Buzzcocks",
+      "type": "song",
+      "duration": "02:55",
+      "trackId": "iMXR7w76VZU",
+      "imgUrl": "https://i.ytimg.com/vi/iMXR7w76VZU/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705347608183"
+      },
+      "likedByUsers": [],
+      "_id": "65a58a183bc5d92a271d70cb"
+    }
+  ],
+  "duration": "00:02:55",
+  "description":"Soungsgarden, Machine Head, Megadeth and..."
+},
+{
+  "_id": {
+    "$oid": "65a58a1a3bc5d92a271d70cd"
+  },
+  "name": "WorkOut",
+  "stationListTitle": "Made for you",
+  "type": "playlist",
+  "tags": [],
+  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705350420/njf0attyt2x9cqgwmngw.jpg",
+  "createdBy": {
+    "_id": "",
+    "username": "TubeFy"
+  },
+  "likedByUsers": 0,
+  "songs": [
+    {
+      "name": "Ever Fallen In Love",
+      "artist": "Buzzcocks",
+      "type": "song",
+      "duration": "02:35",
+      "trackId": "0Af7ayYIJ9w",
+      "imgUrl": "https://i.ytimg.com/vi/0Af7ayYIJ9w/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705347594247"
+      },
+      "likedByUsers": [],
+      "_id": "65a58a0a3bc5d92a271d70ca"
+    }
+  ],
+  "duration": "00:02:35",
+  "description":"If your workout doubles as an outlet for your..."
+},
+{
+  "_id": {
+    "$oid": "65a59463ab7411137f8f73d1"
+  },
+  "name": "Liked Songs",
+  "stationListTitle": "",
+  "type": "playlist",
+  "tags": [],
+  "imgUrl": "/src/assets/img/favorits.png",
+  "createdBy": {
+    "_id": "",
+    "username": ""
+  },
+  "likedByUsers": 0,
+  "songs": [],
+  "duration": "00:00"
+},
+{
+  "_id": {
+    "$oid": "65a59463ab7411137f8f73d2"
+  },
+  "name": "Downloaded",
+  "stationListTitle": "",
+  "type": "playlist",
+  "tags": [],
+  "imgUrl": "/src/assets/img/favorits.png",
+  "createdBy": {
+    "_id": "",
+    "username": ""
+  },
+  "likedByUsers": 0,
+  "songs": [],
+  "duration": "00:00"
+},
+{
+  "_id": {
+    "$oid": "65a594b6ab7411137f8f73d4"
+  },
+  "name": "My station #1",
+  "stationListTitle": "",
+  "type": "playlist",
+  "tags": [],
+  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705350420/njf0attyt2x9cqgwmngw.jpg",
+  "createdBy": {
+    "_id": "",
+    "username": ""
+  },
+  "likedByUsers": 0,
+  "songs": [],
+  "duration": "00:00"
+}]
