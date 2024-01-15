@@ -38,17 +38,18 @@ if (process.env.NODE_ENV === 'production') {
 }
 
 //Routes
+import { authRoutes } from './api/auth/auth.routes.js'
+app.use('/api/auth', authRoutes)
+
+import { userRoutes } from './api/user/user.routes.js'
+app.use('/api/user', userRoutes)
+
 import { stationRoutes } from './api/station/station.routes.js'
 app.use('/api/station', stationRoutes)
 
 import { songRoutes } from './api/songs/song.routes.js'
 app.use('/api/song', songRoutes)
 
-import { authRoutes } from './api/auth/auth.routes.js'
-app.use('/api/auth', authRoutes)
-
-import { userRoutes } from './api/user/user.routes.js'
-app.use('api/user', userRoutes)
 
 app.get('/**', (req, res) => {
     res.sendFile(path.resolve('public/index.html'))

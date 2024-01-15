@@ -80,11 +80,7 @@ async function remove(userId) {
 
 async function update(user) {
     try {
-        const userToSave = {
-            _id: ObjectId(user._id),
-            username: user.username,
-            fullname: user.fullname,
-        }
+        const userToSave = { ...user, _id: new ObjectId(user._id) }
 
         const collection = await dbService.getCollection('user')
         await collection.updateOne({ _id: userToSave._id }, { $set: userToSave })
