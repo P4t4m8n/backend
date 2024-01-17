@@ -145,105 +145,6 @@
 },
 {
   "_id": {
-    "$oid": "65a589e13bc5d92a271d70c8"
-  },
-  "name": "Release Rader",
-  "stationListTitle": "Made for you",
-  "type": "playlist",
-  "tags": [],
-  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705350359/k4sav5v7ub8steedawvp.jpg",
-  "createdBy": {
-    "_id": "",
-    "username": "TubeFy"
-  },
-  "likedByUsers": 0,
-  "songs": [
-    {
-      "name": "Sheena Is A Punk Rocker",
-      "artist": "Ramones",
-      "type": "song",
-      "duration": "02:56",
-      "trackId": "yCW7Aw8ugOI",
-      "imgUrl": "https://i.ytimg.com/vi/yCW7Aw8ugOI/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705347571892"
-      },
-      "likedByUsers": [],
-      "_id": "65a589f33bc5d92a271d70c9"
-    }
-  ],
-  "duration": "00:02:56",
-  "description": "Your weekly mixtape of fresh msuic and..."
-},
-{
-  "_id": {
-    "$oid": "65a58a1a3bc5d92a271d70cc"
-  },
-  "name": "New around you",
-  "stationListTitle": "Made for you",
-  "type": "playlist",
-  "tags": [],
-  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705350398/gia4lojfs0s94n09wisi.jpg",
-  "createdBy": {
-    "_id": "",
-    "username": "TubeFy"
-  },
-  "likedByUsers": 0,
-  "songs": [
-    {
-      "name": "What Do I Get?",
-      "artist": "Buzzcocks",
-      "type": "song",
-      "duration": "02:55",
-      "trackId": "iMXR7w76VZU",
-      "imgUrl": "https://i.ytimg.com/vi/iMXR7w76VZU/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705347608183"
-      },
-      "likedByUsers": [],
-      "_id": "65a58a183bc5d92a271d70cb"
-    }
-  ],
-  "duration": "00:02:55",
-  "description": "Soungsgarden, Machine Head, Megadeth and..."
-},
-{
-  "_id": {
-    "$oid": "65a58a1a3bc5d92a271d70cd"
-  },
-  "name": "WorkOut",
-  "stationListTitle": "Made for you",
-  "type": "playlist",
-  "tags": [],
-  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705350420/njf0attyt2x9cqgwmngw.jpg",
-  "createdBy": {
-    "_id": "",
-    "username": "TubeFy"
-  },
-  "likedByUsers": 0,
-  "songs": [
-    {
-      "name": "Ever Fallen In Love",
-      "artist": "Buzzcocks",
-      "type": "song",
-      "duration": "02:35",
-      "trackId": "0Af7ayYIJ9w",
-      "imgUrl": "https://i.ytimg.com/vi/0Af7ayYIJ9w/mqdefault.jpg",
-      "addedBy": "artist",
-      "addedAt": {
-        "$numberLong": "1705347594247"
-      },
-      "likedByUsers": [],
-      "_id": "65a58a0a3bc5d92a271d70ca"
-    }
-  ],
-  "duration": "00:02:35",
-  "description": "If your workout doubles as an outlet for your..."
-},
-{
-  "_id": {
     "$oid": "65a59463ab7411137f8f73d1"
   },
   "name": "Liked Songs",
@@ -1237,8 +1138,8 @@
       "_id": "65a708bb3a8f33468e45e448"
     },
     {
-      "name": "american dream: the 21 savage story",
-      "artist": "Unknown",
+      "name": "american dream",
+      "artist": "21 Savage",
       "type": "song",
       "duration": "04:20",
       "trackId": "Na8i-SnGfqc",
@@ -2231,8 +2132,8 @@
       "_id": "65a71f443a8f33468e45e489"
     },
     {
-      "name": "אייל גולן – עם ישראל חי",
-      "artist": "Unknown",
+      "name": " עם ישראל חי",
+      "artist": "אייל גולן",
       "type": "song",
       "duration": "03:34",
       "trackId": "1HgKB4-kQdA",
@@ -2316,7 +2217,7 @@
     },
     {
       "name": " לוחמת ",
-      "artist": "Unknown",
+      "artist": "אייל גולן",
       "type": "song",
       "duration": "04:04",
       "trackId": "X308PIRPl88",
@@ -2330,7 +2231,7 @@
     },
     {
       "name": "אלוהי ",
-      "artist": "Unknown",
+      "artist": "אייל גולן",
       "type": "song",
       "duration": "04:27",
       "trackId": "BT5A7NdyMss",
@@ -2364,13 +2265,13 @@
     "$oid": "65a7207c3a8f33468e45e493"
   },
   "name": "דודו טסה",
-  "stationListTitle": "",
+  "stationListTitle": "Isreali best songs",
   "type": "playlist",
   "tags": [],
   "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705451688/yohprwfbbthkqcikmj6c.jpg",
   "createdBy": {
     "_id": "",
-    "username": ""
+    "username": "TubeFy"
   },
   "likedByUsers": 0,
   "songs": [
@@ -2387,7 +2288,1397 @@
       },
       "likedByUsers": [],
       "_id": "65a720ba3a8f33468e45e494"
+    },
+    {
+      "name": "באת עם השקט",
+      "artist": "דודו טסה",
+      "type": "song",
+      "duration": "02:45",
+      "trackId": "NWQ-DylMyHQ",
+      "imgUrl": "https://i.ytimg.com/vi/NWQ-DylMyHQ/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705488115214"
+      },
+      "likedByUsers": [],
+      "_id": "65a7aef326007180751b3c97"
+    },
+    {
+      "name": " על מה את חולמת ",
+      "artist": "דודו טסה",
+      "type": "song",
+      "duration": "03:36",
+      "trackId": "zuKn-yL1ebw",
+      "imgUrl": "https://i.ytimg.com/vi/zuKn-yL1ebw/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705488131526"
+      },
+      "likedByUsers": [],
+      "_id": "65a7af0326007180751b3c98"
+    },
+    {
+      "name": "יש בינינו בית",
+      "artist": "דודו טסה",
+      "type": "song",
+      "duration": "03:34",
+      "trackId": "tMSVgMB4v6k",
+      "imgUrl": "https://i.ytimg.com/vi/tMSVgMB4v6k/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705488144974"
+      },
+      "likedByUsers": [],
+      "_id": "65a7af1026007180751b3c99"
+    },
+    {
+      "name": "לולה",
+      "artist": "דודו טסה",
+      "type": "song",
+      "duration": "03:19",
+      "trackId": "QGErHQi1tuc",
+      "imgUrl": "https://i.ytimg.com/vi/QGErHQi1tuc/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705488223797"
+      },
+      "likedByUsers": [],
+      "_id": "65a7af5f26007180751b3c9a"
+    },
+    {
+      "name": "סבתא חנה | בהופעה",
+      "artist": "דודו טסה",
+      "type": "song",
+      "duration": "03:30",
+      "trackId": "lxMFRYs2hZs",
+      "imgUrl": "https://i.ytimg.com/vi/lxMFRYs2hZs/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705488263444"
+      },
+      "likedByUsers": [],
+      "_id": "65a7af8726007180751b3c9b"
+    },
+    {
+      "name": "הגולה",
+      "artist": "דודו טסה",
+      "type": "song",
+      "duration": "03:45",
+      "trackId": "Y6MvZTcbB9k",
+      "imgUrl": "https://i.ytimg.com/vi/Y6MvZTcbB9k/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705488287773"
+      },
+      "likedByUsers": [],
+      "_id": "65a7af9f26007180751b3c9c"
+    },
+    {
+      "name": "הלילה לא (עלית לי בזיכרון)",
+      "artist": "דודו טסה",
+      "type": "song",
+      "duration": "04:02",
+      "trackId": "g0oc5IljzS0",
+      "imgUrl": "https://i.ytimg.com/vi/g0oc5IljzS0/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705488309598"
+      },
+      "likedByUsers": [],
+      "_id": "65a7afb526007180751b3c9d"
+    },
+    {
+      "name": "אני רץ",
+      "artist": "דודו טסה",
+      "type": "song",
+      "duration": "02:58",
+      "trackId": "wN0LFlMvvsw",
+      "imgUrl": "https://i.ytimg.com/vi/wN0LFlMvvsw/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705488325694"
+      },
+      "likedByUsers": [],
+      "_id": "65a7afc526007180751b3c9e"
+    },
+    {
+      "name": "קחי אותי לטייל",
+      "artist": "דודו טסה",
+      "type": "song",
+      "duration": "03:09",
+      "trackId": "8EiT6Wq3mc8",
+      "imgUrl": "https://i.ytimg.com/vi/8EiT6Wq3mc8/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705488349837"
+      },
+      "likedByUsers": [],
+      "_id": "65a7afdd26007180751b3c9f"
     }
   ],
-  "duration": "00:04:02"
+  "duration": "00:34:40"
+},
+{
+  "_id": {
+    "$oid": "65a7aedc26007180751b3c96"
+  },
+  "name": "להיטים ישראליים מכל הזמנים",
+  "stationListTitle": "Isreali classic music",
+  "type": "playlist",
+  "tags": [],
+  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705489441/cf9etj1kqifrowrqgmnp.jpg",
+  "createdBy": {
+    "_id": "",
+    "username": "TubeFy"
+  },
+  "likedByUsers": 0,
+  "songs": [
+    {
+      "name": "שלמה גרוניך- נואיבה",
+      "artist": "Unknown",
+      "type": "song",
+      "duration": "08:27",
+      "trackId": "9glueRHhiAA",
+      "imgUrl": "https://i.ytimg.com/vi/9glueRHhiAA/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705489525003"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b47526007180751b3ca0"
+    },
+    {
+      "name": "דלתות נפתחות מעצמן, חי בחיפה",
+      "artist": "שיר תת מודע זמני",
+      "type": "song",
+      "duration": "04:48",
+      "trackId": "6eeBDZextis",
+      "imgUrl": "https://i.ytimg.com/vi/6eeBDZextis/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705489587395"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b4b326007180751b3ca1"
+    },
+    {
+      "name": "היא כל כך יפה",
+      "artist": "כוורת",
+      "type": "song",
+      "duration": "03:15",
+      "trackId": "zAaHhoNMXS0",
+      "imgUrl": "https://i.ytimg.com/vi/zAaHhoNMXS0/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705489611146"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b4cb26007180751b3ca2"
+    },
+    {
+      "name": "מתנות קטנות",
+      "artist": "רמי קלינשטיין ",
+      "type": "song",
+      "duration": "03:47",
+      "trackId": "pn_p5_8taxg",
+      "imgUrl": "https://i.ytimg.com/vi/pn_p5_8taxg/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705489655875"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b4f726007180751b3ca3"
+    },
+    {
+      "name": "מלך העולם",
+      "artist": "שלמה ארצי",
+      "type": "song",
+      "duration": "02:44",
+      "trackId": "xTTCD0U_HJg",
+      "imgUrl": "https://i.ytimg.com/vi/xTTCD0U_HJg/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705489674330"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b50a26007180751b3ca4"
+    },
+    {
+      "name": "ליל חניה",
+      "artist": "חנן יובל",
+      "type": "song",
+      "duration": "05:24",
+      "trackId": "4XVQ5GScEoI",
+      "imgUrl": "https://i.ytimg.com/vi/4XVQ5GScEoI/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705489709883"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b52d26007180751b3ca5"
+    },
+    {
+      "name": "שיר של יום חולין",
+      "artist": "אילנית",
+      "type": "song",
+      "duration": "03:35",
+      "trackId": "_Sx3he4ABw0",
+      "imgUrl": "https://i.ytimg.com/vi/_Sx3he4ABw0/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705489723618"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b53b26007180751b3ca6"
+    },
+    {
+      "name": "עוד לא אהבתי די",
+      "artist": "יהורם גאון",
+      "type": "song",
+      "duration": "02:37",
+      "trackId": "V4QSoLFj-NM",
+      "imgUrl": "https://i.ytimg.com/vi/V4QSoLFj-NM/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705489744963"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b55026007180751b3ca7"
+    },
+    {
+      "name": "אתה לי ארץ",
+      "artist": "ירדנה ארזי",
+      "type": "song",
+      "duration": "03:29",
+      "trackId": "ni5zFEj7FFg",
+      "imgUrl": "https://i.ytimg.com/vi/ni5zFEj7FFg/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705489763626"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b56326007180751b3ca8"
+    },
+    {
+      "name": "היו לילות",
+      "artist": "אסתר עופרים",
+      "type": "song",
+      "duration": "04:19",
+      "trackId": "neZHpWExqwQ",
+      "imgUrl": "https://i.ytimg.com/vi/neZHpWExqwQ/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705489787073"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b57b26007180751b3ca9"
+    }
+  ],
+  "duration": "00:42:25"
+},
+{
+  "_id": {
+    "$oid": "65a7b62a26007180751b3caa"
+  },
+  "name": "קלאסיקות ישראליות",
+  "stationListTitle": "Isreali classic music",
+  "type": "playlist",
+  "tags": [],
+  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705490063/dj8elhboa9lybxmr72ge.jpg",
+  "createdBy": {
+    "_id": "",
+    "username": "TubeFy"
+  },
+  "likedByUsers": 0,
+  "songs": [
+    {
+      "name": "יש בי אהבה",
+      "artist": "אריק איינשטיין",
+      "type": "song",
+      "duration": "04:14",
+      "trackId": "5WEggKymynE",
+      "imgUrl": "https://i.ytimg.com/vi/5WEggKymynE/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705490085674"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b6a526007180751b3cab"
+    },
+    {
+      "name": "אחכה לך",
+      "artist": "הנשמות הטהורות",
+      "type": "song",
+      "duration": "03:48",
+      "trackId": "YHQ_NhxUxqE",
+      "imgUrl": "https://i.ytimg.com/vi/YHQ_NhxUxqE/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705490103051"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b6b726007180751b3cac"
+    },
+    {
+      "name": "זה קורה",
+      "artist": "אריק לביא",
+      "type": "song",
+      "duration": "04:02",
+      "trackId": "bSF90A2qBdU",
+      "imgUrl": "https://i.ytimg.com/vi/bSF90A2qBdU/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705490117332"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b6c526007180751b3cad"
+    },
+    {
+      "name": "אינך יכולה",
+      "artist": "החלונות הגבוהים",
+      "type": "song",
+      "duration": "02:39",
+      "trackId": "Mp-oAudF6yY",
+      "imgUrl": "https://i.ytimg.com/vi/Mp-oAudF6yY/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705490136938"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b6d826007180751b3cae"
+    },
+    {
+      "name": "סיגליות",
+      "artist": "דויד ברוזה",
+      "type": "song",
+      "duration": "05:24",
+      "trackId": "mHndiWsfc2U",
+      "imgUrl": "https://i.ytimg.com/vi/mHndiWsfc2U/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705490156064"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b6ec26007180751b3caf"
+    },
+    {
+      "name": "גיטרה וכינור",
+      "artist": "אריק איינשטיין ושלום חנוך",
+      "type": "song",
+      "duration": "03:35",
+      "trackId": "6UltSHD_BbM",
+      "imgUrl": "https://i.ytimg.com/vi/6UltSHD_BbM/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705490178528"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b70226007180751b3cb0"
+    },
+    {
+      "name": "הנה הנה",
+      "artist": "מתי כספי",
+      "type": "song",
+      "duration": "04:35",
+      "trackId": "bE5cHysMf5o",
+      "imgUrl": "https://i.ytimg.com/vi/bE5cHysMf5o/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705490197356"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b71526007180751b3cb1"
+    },
+    {
+      "name": "את תלכי בשדה",
+      "artist": "חוה אלברשטיין",
+      "type": "song",
+      "duration": "03:31",
+      "trackId": "MqBu-lEPKWg",
+      "imgUrl": "https://i.ytimg.com/vi/MqBu-lEPKWg/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705490219586"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b72b26007180751b3cb2"
+    },
+    {
+      "name": "מחכים למשיח",
+      "artist": "שלום חנוך",
+      "type": "song",
+      "duration": "05:46",
+      "trackId": "-0i3mev5EvQ",
+      "imgUrl": "https://i.ytimg.com/vi/-0i3mev5EvQ/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705490242393"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b74226007180751b3cb3"
+    },
+    {
+      "name": "צל ומי באר",
+      "artist": "הדודאים והפרברים",
+      "type": "song",
+      "duration": "04:10",
+      "trackId": "vxA1AlH9o-0",
+      "imgUrl": "https://i.ytimg.com/vi/vxA1AlH9o-0/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705490262609"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b75626007180751b3cb4"
+    }
+  ],
+  "duration": "00:41:44"
+},
+{
+  "_id": {
+    "$oid": "65a7b87d26007180751b3cb5"
+  },
+  "name": "יהודית רביץ",
+  "stationListTitle": "Isreali classic music",
+  "type": "playlist",
+  "tags": [],
+  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705490595/xb1kdiy7ntm3el2a1vwg.jpg",
+  "createdBy": {
+    "_id": "",
+    "username": "TubeFy"
+  },
+  "likedByUsers": 0,
+  "songs": [
+    {
+      "name": "מילה טובה",
+      "artist": "יהודית רביץ",
+      "type": "song",
+      "duration": "05:03",
+      "trackId": "32Zn4Rzga1o",
+      "imgUrl": "https://i.ytimg.com/vi/32Zn4Rzga1o/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705490634064"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b8ca26007180751b3cb6"
+    },
+    {
+      "name": "שיר ללא שם",
+      "artist": "יהודית רביץ",
+      "type": "song",
+      "duration": "05:36",
+      "trackId": "doh10LVsJYA",
+      "imgUrl": "https://i.ytimg.com/vi/doh10LVsJYA/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705490651719"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b8db26007180751b3cb7"
+    },
+    {
+      "name": "עכשיו הכל בסדר",
+      "artist": "יהודית רביץ",
+      "type": "song",
+      "duration": "04:42",
+      "trackId": "93x_LZcSlCI",
+      "imgUrl": "https://i.ytimg.com/vi/93x_LZcSlCI/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705490704719"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b91026007180751b3cb8"
+    },
+    {
+      "name": "באהבתנו",
+      "artist": "יהודית רביץ",
+      "type": "song",
+      "duration": "04:20",
+      "trackId": "6QBLiYxjt1M",
+      "imgUrl": "https://i.ytimg.com/vi/6QBLiYxjt1M/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705490716720"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b91c26007180751b3cb9"
+    },
+    {
+      "name": "לקחת את ידי בידך",
+      "artist": "יהודת רביץ",
+      "type": "song",
+      "duration": "03:32",
+      "trackId": "VV2rGPHvB8g",
+      "imgUrl": "https://i.ytimg.com/vi/VV2rGPHvB8g/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705490731731"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b92b26007180751b3cba"
+    },
+    {
+      "name": "דניאל (אנימציה)",
+      "artist": "יהודית רביץ",
+      "type": "song",
+      "duration": "03:42",
+      "trackId": "LifhtDhOnRQ",
+      "imgUrl": "https://i.ytimg.com/vi/LifhtDhOnRQ/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705490750072"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b93e26007180751b3cbb"
+    },
+    {
+      "name": "אהבה יומיומית (שקרים קטנים)",
+      "artist": "יהודית רביץ",
+      "type": "song",
+      "duration": "04:40",
+      "trackId": "nj15LtHROqY",
+      "imgUrl": "https://i.ytimg.com/vi/nj15LtHROqY/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705490775793"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b95726007180751b3cbc"
+    },
+    {
+      "name": "בך לא נוגע",
+      "artist": "יהודית רביץ",
+      "type": "song",
+      "duration": "03:24",
+      "trackId": "3dTW-7jEQds",
+      "imgUrl": "https://i.ytimg.com/vi/3dTW-7jEQds/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705490792904"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b96826007180751b3cbd"
+    },
+    {
+      "name": "בראש אחד",
+      "artist": "יהודית רביץ ודני ליטני",
+      "type": "song",
+      "duration": "04:45",
+      "trackId": "bV90snBLEtQ",
+      "imgUrl": "https://i.ytimg.com/vi/bV90snBLEtQ/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705490810985"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b97a26007180751b3cbe"
+    },
+    {
+      "name": "ילדים טובים ילדים רעים",
+      "artist": "יהודית רביץ",
+      "type": "song",
+      "duration": "03:11",
+      "trackId": "mosWViQhBZs",
+      "imgUrl": "https://i.ytimg.com/vi/mosWViQhBZs/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705490831090"
+      },
+      "likedByUsers": [],
+      "_id": "65a7b98f26007180751b3cbf"
+    }
+  ],
+  "duration": "00:42:55"
+},
+{
+  "_id": {
+    "$oid": "65a7ba2126007180751b3cc0"
+  },
+  "name": "שלמה ארצי",
+  "stationListTitle": "Isreali classic music",
+  "type": "playlist",
+  "tags": [],
+  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705491009/ohxahmiy9fuwbabcd50s.jpg",
+  "createdBy": {
+    "_id": "",
+    "username": "TubeFy"
+  },
+  "likedByUsers": 0,
+  "songs": [
+    {
+      "name": "תתארו לכם (קליפ)",
+      "artist": "שלמה ארצי",
+      "type": "song",
+      "duration": "03:45",
+      "trackId": "Y0KxZz5k-RE",
+      "imgUrl": "https://i.ytimg.com/vi/Y0KxZz5k-RE/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705491062216"
+      },
+      "likedByUsers": [],
+      "_id": "65a7ba7626007180751b3cc1"
+    },
+    {
+      "name": "נהר הדמעות (Prod by. Matan Dror)",
+      "artist": "שלמה ארצי ופאר טסי",
+      "type": "song",
+      "duration": "02:53",
+      "trackId": "DdB9npMYKxU",
+      "imgUrl": "https://i.ytimg.com/vi/DdB9npMYKxU/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705491071879"
+      },
+      "likedByUsers": [],
+      "_id": "65a7ba7f26007180751b3cc2"
+    },
+    {
+      "name": "היא לא יודעת מה עובר עלי | קליפ",
+      "artist": "שלמה ארצי",
+      "type": "song",
+      "duration": "05:05",
+      "trackId": "WHDQ-JHI6Z8",
+      "imgUrl": "https://i.ytimg.com/vi/WHDQ-JHI6Z8/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705491085937"
+      },
+      "likedByUsers": [],
+      "_id": "65a7ba8d26007180751b3cc3"
+    },
+    {
+      "name": "שלמה ארצי- האהבה הישנה",
+      "artist": "Unknown",
+      "type": "song",
+      "duration": "03:45",
+      "trackId": "02uV8M6XSto",
+      "imgUrl": "https://i.ytimg.com/vi/02uV8M6XSto/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705491124624"
+      },
+      "likedByUsers": [],
+      "_id": "65a7bab426007180751b3cc4"
+    },
+    {
+      "_id": "65a7b50a26007180751b3ca4",
+      "name": "מלך העולם",
+      "artist": "שלמה ארצי",
+      "type": "song",
+      "duration": "02:44",
+      "trackId": "xTTCD0U_HJg",
+      "imgUrl": "https://i.ytimg.com/vi/xTTCD0U_HJg/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705489674330"
+      },
+      "likedByUsers": []
+    },
+    {
+      "name": "נוף ילדות  (2000)",
+      "artist": "שלמה ארצי",
+      "type": "song",
+      "duration": "04:05",
+      "trackId": "pTrcmqD892Q",
+      "imgUrl": "https://i.ytimg.com/vi/pTrcmqD892Q/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705491174079"
+      },
+      "likedByUsers": [],
+      "_id": "65a7bae626007180751b3cc5"
+    },
+    {
+      "name": "קצת משונה שלא נשארת",
+      "artist": "שלמה ארצי",
+      "type": "song",
+      "duration": "04:23",
+      "trackId": "fefG2eENbPM",
+      "imgUrl": "https://i.ytimg.com/vi/fefG2eENbPM/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705491193567"
+      },
+      "likedByUsers": [],
+      "_id": "65a7baf926007180751b3cc6"
+    },
+    {
+      "name": "תגידי",
+      "artist": "שלמה ארצי ונתן גושן במנורה",
+      "type": "song",
+      "duration": "03:31",
+      "trackId": "_oFN_gwH3IE",
+      "imgUrl": "https://i.ytimg.com/vi/_oFN_gwH3IE/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705491214695"
+      },
+      "likedByUsers": [],
+      "_id": "65a7bb0e26007180751b3cc7"
+    },
+    {
+      "name": "ארץ חדשה (חום יולי אוגוסט)",
+      "artist": "שלמה ארצי",
+      "type": "song",
+      "duration": "06:05",
+      "trackId": "z27U2kmQ6TI",
+      "imgUrl": "https://i.ytimg.com/vi/z27U2kmQ6TI/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705491243199"
+      },
+      "likedByUsers": [],
+      "_id": "65a7bb2b26007180751b3cc8"
+    },
+    {
+      "name": "שיר על ילד מפורסם",
+      "artist": "שלמה ארצי",
+      "type": "song",
+      "duration": "03:21",
+      "trackId": "4Lup-yn5U1c",
+      "imgUrl": "https://i.ytimg.com/vi/4Lup-yn5U1c/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705491277210"
+      },
+      "likedByUsers": [],
+      "_id": "65a7bb4d26007180751b3cc9"
+    }
+  ],
+  "duration": "00:39:37"
+},
+{
+  "_id": {
+    "$oid": "65a7bdb326007180751b3cca"
+  },
+  "name": "רוק ישראלי",
+  "stationListTitle": "Isreali classic music",
+  "type": "playlist",
+  "tags": [],
+  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705493860/f0nii88hsnmnhgdhjnrm.jpg",
+  "createdBy": {
+    "_id": "",
+    "username": "TubeFy"
+  },
+  "likedByUsers": 0,
+  "songs": [
+    {
+      "name": "אצלך בעולם",
+      "artist": "היהודים",
+      "type": "song",
+      "duration": "04:44",
+      "trackId": "P6KnK0cVdhA",
+      "imgUrl": "https://i.ytimg.com/vi/P6KnK0cVdhA/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705492768983"
+      },
+      "likedByUsers": [],
+      "_id": "65a7c12026007180751b3ccb"
+    },
+    {
+      "name": "איך כש...",
+      "artist": "יוסי אלפנט",
+      "type": "song",
+      "duration": "04:57",
+      "trackId": "7v4paEM-0Fo",
+      "imgUrl": "https://i.ytimg.com/vi/7v4paEM-0Fo/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705492788974"
+      },
+      "likedByUsers": [],
+      "_id": "65a7c13426007180751b3ccc"
+    },
+    {
+      "name": "האהבה שלי היא לא האהבה שלו",
+      "artist": "יצחק קלפטר",
+      "type": "song",
+      "duration": "02:59",
+      "trackId": "1oXc9mgkM1o",
+      "imgUrl": "https://i.ytimg.com/vi/1oXc9mgkM1o/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705492808246"
+      },
+      "likedByUsers": [],
+      "_id": "65a7c14826007180751b3ccd"
+    },
+    {
+      "name": "דמיון חופשי",
+      "artist": "יצחק קלפטר",
+      "type": "song",
+      "duration": "04:34",
+      "trackId": "_ThtD90N8qk",
+      "imgUrl": "https://i.ytimg.com/vi/_ThtD90N8qk/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705492819645"
+      },
+      "likedByUsers": [],
+      "_id": "65a7c15326007180751b3cce"
+    },
+    {
+      "name": "עד מחר",
+      "artist": "אביתר בנאי",
+      "type": "song",
+      "duration": "04:28",
+      "trackId": "g_gFnDyi2Ho",
+      "imgUrl": "https://i.ytimg.com/vi/g_gFnDyi2Ho/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705492834141"
+      },
+      "likedByUsers": [],
+      "_id": "65a7c16226007180751b3ccf"
+    },
+    {
+      "name": "מסמרים ונוצות",
+      "artist": "מיכה שטרית",
+      "type": "song",
+      "duration": "06:12",
+      "trackId": "cecAjSXn2uA",
+      "imgUrl": "https://i.ytimg.com/vi/cecAjSXn2uA/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705492869582"
+      },
+      "likedByUsers": [],
+      "_id": "65a7c18526007180751b3cd0"
+    },
+    {
+      "_id": "65a2bc53c4390ff4d640d770",
+      "name": "הכוכבים דולקים על אש קטנה 1990",
+      "artist": "משינה",
+      "type": "song",
+      "duration": "3:27",
+      "trackId": "FilQhY2Pjq0",
+      "imgUrl": "https://i.ytimg.com/vi/FilQhY2Pjq0/hqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705163859582"
+      },
+      "likedByUsers": []
+    },
+    {
+      "name": "חלליות",
+      "artist": "ברי סחרוף",
+      "type": "song",
+      "duration": "04:25",
+      "trackId": "D96LIS-ByvI",
+      "imgUrl": "https://i.ytimg.com/vi/D96LIS-ByvI/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705492906175"
+      },
+      "likedByUsers": [],
+      "_id": "65a7c1aa26007180751b3cd1"
+    },
+    {
+      "name": "קול גלגל",
+      "artist": "שוטי הנבואה",
+      "type": "song",
+      "duration": "06:18",
+      "trackId": "XJZA3_e3SBw",
+      "imgUrl": "https://i.ytimg.com/vi/XJZA3_e3SBw/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705492921541"
+      },
+      "likedByUsers": [],
+      "_id": "65a7c1b926007180751b3cd2"
+    },
+    {
+      "name": "ככלות הקול והתמונה",
+      "artist": "דני בסן",
+      "type": "song",
+      "duration": "04:14",
+      "trackId": "vh-1znGxKjM",
+      "imgUrl": "https://i.ytimg.com/vi/vh-1znGxKjM/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705492958805"
+      },
+      "likedByUsers": [],
+      "_id": "65a7c1de26007180751b3cd3"
+    }
+  ],
+  "duration": "00:46:18"
+},
+{
+  "_id": {
+    "$oid": "65a7c59e26007180751b3cd4"
+  },
+  "name": "Best music hits of 2023",
+  "stationListTitle": "Made for you",
+  "type": "playlist",
+  "tags": [],
+  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705494006/tczwos2noyg6oz8tbgqo.jpg",
+  "createdBy": {
+    "_id": "",
+    "username": "TubeFy"
+  },
+  "likedByUsers": 0,
+  "songs": [
+    {
+      "name": "Water",
+      "artist": "Tyla",
+      "type": "song",
+      "duration": "03:23",
+      "trackId": "TSsFB241BHs",
+      "imgUrl": "https://i.ytimg.com/vi/TSsFB241BHs/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705494178044"
+      },
+      "likedByUsers": [],
+      "_id": "65a7c6a226007180751b3cd5"
+    },
+    {
+      "_id": "65a586693bc5d92a271d70bf",
+      "name": "Flowers",
+      "artist": "Miley Cyrus",
+      "type": "song",
+      "duration": "03:22",
+      "trackId": "G7KNmW9a75Y",
+      "imgUrl": "https://i.ytimg.com/vi/G7KNmW9a75Y/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705346665264"
+      },
+      "likedByUsers": []
+    },
+    {
+      "name": "Lovin On Me ",
+      "artist": "Jack Harlow",
+      "type": "song",
+      "duration": "02:20",
+      "trackId": "Iq8h3GEe22o",
+      "imgUrl": "https://i.ytimg.com/vi/Iq8h3GEe22o/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705494253788"
+      },
+      "likedByUsers": [],
+      "_id": "65a7c6ed26007180751b3cd7"
+    },
+    {
+      "name": "BMF ",
+      "artist": "Millyz ft. Vory",
+      "type": "song",
+      "duration": "03:35",
+      "trackId": "W2TCXUR_0zM",
+      "imgUrl": "https://i.ytimg.com/vi/W2TCXUR_0zM/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705494288381"
+      },
+      "likedByUsers": [],
+      "_id": "65a7c71026007180751b3cd8"
+    },
+    {
+      "name": "Paint The Town Red",
+      "artist": "Doja Cat",
+      "type": "song",
+      "duration": "04:56",
+      "trackId": "m4_9TFeMfJE",
+      "imgUrl": "https://i.ytimg.com/vi/m4_9TFeMfJE/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705494310532"
+      },
+      "likedByUsers": [],
+      "_id": "65a7c72626007180751b3cd9"
+    },
+    {
+      "name": "Daylight",
+      "artist": "David Kushner",
+      "type": "song",
+      "duration": "03:50",
+      "trackId": "MoN9ql6Yymw",
+      "imgUrl": "https://i.ytimg.com/vi/MoN9ql6Yymw/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705494331915"
+      },
+      "likedByUsers": [],
+      "_id": "65a7c73b26007180751b3cda"
+    },
+    {
+      "name": "SOFTLY ",
+      "artist": "Karan Aujla",
+      "type": "song",
+      "duration": "02:51",
+      "trackId": "cWMxCE2HTag",
+      "imgUrl": "https://i.ytimg.com/vi/cWMxCE2HTag/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705494387242"
+      },
+      "likedByUsers": [],
+      "_id": "65a7c77326007180751b3cdb"
+    },
+    {
+      "name": "greedy",
+      "artist": "Tate McRae",
+      "type": "song",
+      "duration": "02:35",
+      "trackId": "To4SWGZkEPk",
+      "imgUrl": "https://i.ytimg.com/vi/To4SWGZkEPk/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705494464219"
+      },
+      "likedByUsers": [],
+      "_id": "65a7c7c026007180751b3cdc"
+    },
+    {
+      "name": "Standing next to you",
+      "artist": "Jung Kook",
+      "type": "song",
+      "duration": "03:47",
+      "trackId": "UNo0TG9LwwI",
+      "imgUrl": "https://i.ytimg.com/vi/UNo0TG9LwwI/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705494494595"
+      },
+      "likedByUsers": [],
+      "_id": "65a7c7de26007180751b3cdd"
+    },
+    {
+      "name": "Stereo Love",
+      "artist": "Edward Maya &amp; Vika Jigulina",
+      "type": "song",
+      "duration": "04:13",
+      "trackId": "p-Z3YrHJ1sU",
+      "imgUrl": "https://i.ytimg.com/vi/p-Z3YrHJ1sU/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705494554266"
+      },
+      "likedByUsers": [],
+      "_id": "65a7c81a26007180751b3cde"
+    }
+  ],
+  "duration": "00:34:52"
+},
+{
+  "_id": {
+    "$oid": "65a7c9e726007180751b3cdf"
+  },
+  "name": "Top charts",
+  "stationListTitle": "Made for you",
+  "type": "playlist",
+  "tags": [],
+  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705495057/ootj9l29ybqtjci0egd3.jpg",
+  "createdBy": {
+    "_id": "",
+    "username": "TubeFy"
+  },
+  "likedByUsers": 0,
+  "songs": [
+    {
+      "name": "Save Your Tears",
+      "artist": "The Weeknd",
+      "type": "song",
+      "duration": "04:09",
+      "trackId": "XXYlFuWEuKI",
+      "imgUrl": "https://i.ytimg.com/vi/XXYlFuWEuKI/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705495126852"
+      },
+      "likedByUsers": [],
+      "_id": "65a7ca5626007180751b3ce0"
+    },
+    {
+      "name": "Blinding Lights",
+      "artist": "The Weeknd",
+      "type": "song",
+      "duration": "04:23",
+      "trackId": "4NRXx6U8ABQ",
+      "imgUrl": "https://i.ytimg.com/vi/4NRXx6U8ABQ/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705495148987"
+      },
+      "likedByUsers": [],
+      "_id": "65a7ca6c26007180751b3ce1"
+    },
+    {
+      "name": "My Love Mine All Mine",
+      "artist": "Mitski",
+      "type": "song",
+      "duration": "02:50",
+      "trackId": "vx4kLgnFexo",
+      "imgUrl": "https://i.ytimg.com/vi/vx4kLgnFexo/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705496166340"
+      },
+      "likedByUsers": [],
+      "_id": "65a7ce6626007180751b3ce2"
+    },
+    {
+      "name": "Blow That Money",
+      "artist": "G.T.",
+      "type": "song",
+      "duration": "02:52",
+      "trackId": "uDvM6e0X9Jk",
+      "imgUrl": "https://i.ytimg.com/vi/uDvM6e0X9Jk/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705496194217"
+      },
+      "likedByUsers": [],
+      "_id": "65a7ce8226007180751b3ce3"
+    },
+    {
+      "name": "Strangers",
+      "artist": "Kenya Grace",
+      "type": "song",
+      "duration": "02:53",
+      "trackId": "RnyPNdBWwVw",
+      "imgUrl": "https://i.ytimg.com/vi/RnyPNdBWwVw/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705496216793"
+      },
+      "likedByUsers": [],
+      "_id": "65a7ce9826007180751b3ce4"
+    },
+    {
+      "name": "All Out Of Fight",
+      "artist": "P!NK",
+      "type": "song",
+      "duration": "03:40",
+      "trackId": "5DuZkK_trYY",
+      "imgUrl": "https://i.ytimg.com/vi/5DuZkK_trYY/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705496251769"
+      },
+      "likedByUsers": [],
+      "_id": "65a7cebb26007180751b3ce5"
+    },
+    {
+      "name": "CLIMATE",
+      "artist": "BIGXTHAPLUG FEAT. OFFSET",
+      "type": "song",
+      "duration": "02:51",
+      "trackId": "-YWxM5OdbRs",
+      "imgUrl": "https://i.ytimg.com/vi/-YWxM5OdbRs/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705496282115"
+      },
+      "likedByUsers": [],
+      "_id": "65a7ceda26007180751b3ce6"
+    },
+    {
+      "name": "What Was I Made For? (Official Music Video)",
+      "artist": "Billie Eilish",
+      "type": "song",
+      "duration": "04:09",
+      "trackId": "cW8VLC9nnTo",
+      "imgUrl": "https://i.ytimg.com/vi/cW8VLC9nnTo/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705496310624"
+      },
+      "likedByUsers": [],
+      "_id": "65a7cef626007180751b3ce7"
+    },
+    {
+      "name": "Breathe ",
+      "artist": "D. Savage",
+      "type": "song",
+      "duration": "02:35",
+      "trackId": "YGLb3mJD3SY",
+      "imgUrl": "https://i.ytimg.com/vi/YGLb3mJD3SY/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705496339256"
+      },
+      "likedByUsers": [],
+      "_id": "65a7cf1326007180751b3ce8"
+    },
+    {
+      "name": "Bestie",
+      "artist": "Rotimi",
+      "type": "song",
+      "duration": "02:55",
+      "trackId": "YtwDMRLbRZQ",
+      "imgUrl": "https://i.ytimg.com/vi/YtwDMRLbRZQ/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705496391241"
+      },
+      "likedByUsers": [],
+      "_id": "65a7cf4726007180751b3ce9"
+    }
+  ],
+  "duration": "00:33:17"
+},
+{
+  "_id": {
+    "$oid": "65a7d2f926007180751b3cea"
+  },
+  "name": "Most Played",
+  "stationListTitle": "Made for you",
+  "type": "playlist",
+  "tags": [],
+  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705497381/axgwki7pj5c7ulqg0ehb.jpg",
+  "createdBy": {
+    "_id": "",
+    "username": "TubeFy"
+  },
+  "likedByUsers": 0,
+  "songs": [
+    {
+      "_id": "65a7c6ed26007180751b3cd7",
+      "name": "Lovin On Me ",
+      "artist": "Jack Harlow",
+      "type": "song",
+      "duration": "02:20",
+      "trackId": "Iq8h3GEe22o",
+      "imgUrl": "https://i.ytimg.com/vi/Iq8h3GEe22o/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705494253788"
+      },
+      "likedByUsers": []
+    },
+    {
+      "name": "Prada ",
+      "artist": "Casso",
+      "type": "song",
+      "duration": "04:07",
+      "trackId": "xSGEOVXL33g",
+      "imgUrl": "https://i.ytimg.com/vi/xSGEOVXL33g/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705497436956"
+      },
+      "likedByUsers": [],
+      "_id": "65a7d35c26007180751b3ceb"
+    },
+    {
+      "name": "Now And Then",
+      "artist": "The Beatles",
+      "type": "song",
+      "duration": "04:36",
+      "trackId": "Opxhh9Oh3rg",
+      "imgUrl": "https://i.ytimg.com/vi/Opxhh9Oh3rg/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705497474358"
+      },
+      "likedByUsers": [],
+      "_id": "65a7d38226007180751b3cec"
+    },
+    {
+      "name": "Ruined",
+      "artist": "Michael J Woodard",
+      "type": "song",
+      "duration": "03:16",
+      "trackId": "Isw5ZHyZC8k",
+      "imgUrl": "https://i.ytimg.com/vi/Isw5ZHyZC8k/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705497520070"
+      },
+      "likedByUsers": [],
+      "_id": "65a7d3b026007180751b3ced"
+    },
+    {
+      "_id": "65a7c6a226007180751b3cd5",
+      "name": "Water",
+      "artist": "Tyla",
+      "type": "song",
+      "duration": "03:23",
+      "trackId": "TSsFB241BHs",
+      "imgUrl": "https://i.ytimg.com/vi/TSsFB241BHs/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705494178044"
+      },
+      "likedByUsers": []
+    },
+    {
+      "name": "Lil Boo Thang",
+      "artist": "Paul Russell",
+      "type": "song",
+      "duration": "01:55",
+      "trackId": "mkV7aJqXFDg",
+      "imgUrl": "https://i.ytimg.com/vi/mkV7aJqXFDg/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705497571927"
+      },
+      "likedByUsers": [],
+      "_id": "65a7d3e326007180751b3cee"
+    },
+    {
+      "name": "Blow That Money",
+      "artist": "G.T.",
+      "type": "song",
+      "duration": "02:52",
+      "trackId": "N7eekIkx72o",
+      "imgUrl": "https://i.ytimg.com/vi/N7eekIkx72o/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705497592966"
+      },
+      "likedByUsers": [],
+      "_id": "65a7d3f826007180751b3cef"
+    },
+    {
+      "name": "adore u ",
+      "artist": "Fred again..",
+      "type": "song",
+      "duration": "03:41",
+      "trackId": "peIBCNTY8hA",
+      "imgUrl": "https://i.ytimg.com/vi/peIBCNTY8hA/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705497636534"
+      },
+      "likedByUsers": [],
+      "_id": "65a7d42426007180751b3cf0"
+    },
+    {
+      "name": "Asking ",
+      "artist": "Sonny Fodera &amp; MK",
+      "type": "song",
+      "duration": "03:12",
+      "trackId": "Jckql0mdf_c",
+      "imgUrl": "https://i.ytimg.com/vi/Jckql0mdf_c/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705497664742"
+      },
+      "likedByUsers": [],
+      "_id": "65a7d44026007180751b3cf1"
+    },
+    {
+      "name": "vampire ",
+      "artist": "Olivia Rodrigo",
+      "type": "song",
+      "duration": "04:05",
+      "trackId": "RlPNh_PBZb4",
+      "imgUrl": "https://i.ytimg.com/vi/RlPNh_PBZb4/mqdefault.jpg",
+      "addedBy": "artist",
+      "addedAt": {
+        "$numberLong": "1705497689702"
+      },
+      "likedByUsers": [],
+      "_id": "65a7d45926007180751b3cf2"
+    }
+  ],
+  "duration": "00:33:27"
 }]
