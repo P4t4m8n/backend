@@ -1,5 +1,181 @@
 [{
   "_id": {
+    "$oid": "65a2bc53c4390ff4d640d770"
+  },
+  "name": "הכוכבים דולקים על אש קטנה 1990",
+  "artist": "משינה",
+  "type": "song",
+  "duration": "3:27",
+  "trackId": "FilQhY2Pjq0",
+  "imgUrl": "https://i.ytimg.com/vi/FilQhY2Pjq0/hqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705163859582"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a2be96c4390ff4d640d772"
+  },
+  "name": "רכבת לילה 1985",
+  "artist": "משינה",
+  "type": "song",
+  "duration": "3:42",
+  "trackId": "IOSmBOsGRMc",
+  "imgUrl": "https://i.ytimg.com/vi/IOSmBOsGRMc/hqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705164438834"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a2c33bb1bc04c870481644"
+  },
+  "name": "זה היה ביתי",
+  "artist": "אינפקציה",
+  "type": "song",
+  "duration": "2:42",
+  "trackId": "zab3SereSz8",
+  "imgUrl": "https://i.ytimg.com/vi/zab3SereSz8/hqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705165627444"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a2c461b1bc04c870481645"
+  },
+  "name": "Unknown",
+  "artist": "Unknown",
+  "type": "song",
+  "duration": "3:28",
+  "trackId": "wnu3te5ule0",
+  "imgUrl": "https://i.ytimg.com/vi/wnu3te5ule0/hqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705165921793"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a2c4e0b1bc04c870481646"
+  },
+  "name": "Symphony Of Destruction",
+  "artist": "Unknown",
+  "type": "song",
+  "duration": "4:7",
+  "trackId": "WdoXZf-FZyA",
+  "imgUrl": "https://i.ytimg.com/vi/WdoXZf-FZyA/hqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705166048341"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a2d246b1bc04c870481679"
+  },
+  "name": "להקת כוורת-מיטב השירים היפים חלק 1(מתוך 2)-כל שירי הלהקה היפים של כוורת באוסף אחד-להאזנה ברצף",
+  "artist": "Unknown",
+  "type": "song",
+  "duration": "Invalid format",
+  "trackId": "VrtVs5OAtMM",
+  "imgUrl": "https://i.ytimg.com/vi/VrtVs5OAtMM/hqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705169478689"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a2e109b1bc04c870481688"
+  },
+  "name": "Without Me (Official Music Video)",
+  "artist": "Eminem",
+  "type": "song",
+  "duration": "4:58",
+  "trackId": "YVkUvmDQ3HY",
+  "imgUrl": "https://i.ytimg.com/vi/YVkUvmDQ3HY/hqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705173257899"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a2f900b1bc04c870481689"
+  },
+  "name": "היא התווכחה איתו שעות 1986",
+  "artist": "משינה",
+  "type": "song",
+  "duration": "4:53",
+  "trackId": "LWD30iw7Diw",
+  "imgUrl": "https://i.ytimg.com/vi/LWD30iw7Diw/hqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705179392039"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a2f902b1bc04c87048168a"
+  },
+  "name": "משינה-מיטב השירים היפים חלק 1(מתוך 2)-כל שירי הלהקה היפים של משינה באוסף אחד להאזנה ברצף",
+  "artist": "Unknown",
+  "type": "song",
+  "duration": "Invalid format",
+  "trackId": "lUhqYWqnDGg",
+  "imgUrl": "https://i.ytimg.com/vi/lUhqYWqnDGg/hqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705179394532"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a5111964cc59a75e40b649"
+  },
+  "name": "Diamonds",
+  "artist": "Rihanna",
+  "type": "song",
+  "duration": "04:43",
+  "trackId": "lWA2pjMjpBs",
+  "imgUrl": "https://i.ytimg.com/vi/lWA2pjMjpBs/hqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705316633069"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a520d664cc59a75e40b64a"
+  },
+  "name": "Sprinter [Music Video]",
+  "artist": "Central Cee x Dave",
+  "type": "song",
+  "duration": "03:50",
+  "trackId": "pSY3i5XHHXo",
+  "imgUrl": "https://i.ytimg.com/vi/pSY3i5XHHXo/hqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705320662605"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
     "$oid": "65a585783bc5d92a271d70bd"
   },
   "name": "Without Me",
@@ -171,6 +347,1430 @@
   "addedBy": "artist",
   "addedAt": {
     "$numberLong": "1705347010109"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a660e8ebc15f1d92d032e9"
+  },
+  "name": "Unknown",
+  "artist": "Unknown",
+  "type": "song",
+  "duration": "03:39",
+  "trackId": "Jvx7s7UqaPo",
+  "imgUrl": "https://i.ytimg.com/vi/Jvx7s7UqaPo/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705402600877"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a660efebc15f1d92d032ea"
+  },
+  "name": "Bole Chudiyan | K3G | Amitabh, Shah Rukh, Kajol, Kareena, Hrithik | Udit Narayan | Karan Johar | 4K",
+  "artist": "Unknown",
+  "type": "song",
+  "duration": "06:45",
+  "trackId": "b54oABKKV7E",
+  "imgUrl": "https://i.ytimg.com/vi/b54oABKKV7E/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705402607914"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a6f1c33a8f33468e45e434"
+  },
+  "name": "Umbrella ft. JAY-Z",
+  "artist": "Rihanna",
+  "type": "song",
+  "duration": "04:15",
+  "trackId": "CvBfHwUxHIk",
+  "imgUrl": "https://i.ytimg.com/vi/CvBfHwUxHIk/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705439683343"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a6f1c43a8f33468e45e435"
+  },
+  "name": "We Found Love ft. Calvin Harris",
+  "artist": "Rihanna",
+  "type": "song",
+  "duration": "04:36",
+  "trackId": "tg00YEETFzg",
+  "imgUrl": "https://i.ytimg.com/vi/tg00YEETFzg/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705439684544"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a6f1c53a8f33468e45e436"
+  },
+  "name": "Wild Thoughts ft. Rihanna, Bryson Tiller",
+  "artist": "DJ Khaled",
+  "type": "song",
+  "duration": "03:36",
+  "trackId": "fyaI4-5849w",
+  "imgUrl": "https://i.ytimg.com/vi/fyaI4-5849w/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705439685959"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a6f1c73a8f33468e45e437"
+  },
+  "name": "Work (Explicit) ft. Drake",
+  "artist": "Rihanna",
+  "type": "song",
+  "duration": "07:35",
+  "trackId": "HL1UzIK-flA",
+  "imgUrl": "https://i.ytimg.com/vi/HL1UzIK-flA/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705439687059"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a6f1fa3a8f33468e45e438"
+  },
+  "name": "What's My Name? ft. Drake",
+  "artist": "Rihanna",
+  "type": "song",
+  "duration": "04:25",
+  "trackId": "U0CGsw6h60k",
+  "imgUrl": "https://i.ytimg.com/vi/U0CGsw6h60k/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705439738899"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a6f2123a8f33468e45e439"
+  },
+  "name": "Disturbia",
+  "artist": "Rihanna",
+  "type": "song",
+  "duration": "04:22",
+  "trackId": "E1mU6h4Xdxc",
+  "imgUrl": "https://i.ytimg.com/vi/E1mU6h4Xdxc/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705439762971"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a6f22e3a8f33468e45e43a"
+  },
+  "name": "Where Have You Been",
+  "artist": "Rihanna",
+  "type": "song",
+  "duration": "04:29",
+  "trackId": "HBxt_v0WF6Y",
+  "imgUrl": "https://i.ytimg.com/vi/HBxt_v0WF6Y/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705439790251"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a6f2593a8f33468e45e43b"
+  },
+  "name": "Take A Bow",
+  "artist": "Rihanna",
+  "type": "song",
+  "duration": "03:50",
+  "trackId": "J3UjJ4wKLkg",
+  "imgUrl": "https://i.ytimg.com/vi/J3UjJ4wKLkg/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705439833914"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a6fc1c3a8f33468e45e43d"
+  },
+  "name": "Love On The Brain",
+  "artist": "Rihanna",
+  "type": "song",
+  "duration": "03:44",
+  "trackId": "QMP-o8WXSPM",
+  "imgUrl": "https://i.ytimg.com/vi/QMP-o8WXSPM/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705442332663"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a6fe463a8f33468e45e43f"
+  },
+  "name": "EVERY CHANCE I GET ft. Lil Baby, Lil Durk",
+  "artist": "DJ Khaled",
+  "type": "song",
+  "duration": "03:57",
+  "trackId": "BTivsHlVcGU",
+  "imgUrl": "https://i.ytimg.com/vi/BTivsHlVcGU/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705442886858"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a707953a8f33468e45e441"
+  },
+  "name": "The Real Slim Shady",
+  "artist": "Eminem",
+  "type": "song",
+  "duration": "04:45",
+  "trackId": "rkqMbsmLrtA",
+  "imgUrl": "https://i.ytimg.com/vi/rkqMbsmLrtA/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705445269488"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a707ce3a8f33468e45e442"
+  },
+  "name": "Gangsta&#39;s Paradise (feat. L.V.)",
+  "artist": "Coolio",
+  "type": "song",
+  "duration": "04:17",
+  "trackId": "fPO76Jlnz6c",
+  "imgUrl": "https://i.ytimg.com/vi/fPO76Jlnz6c/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705445326841"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a707e93a8f33468e45e443"
+  },
+  "name": "I Get The Bag feat. Migos",
+  "artist": "Gucci Mane",
+  "type": "song",
+  "duration": "03:38",
+  "trackId": "uo14xGYwWd4",
+  "imgUrl": "https://i.ytimg.com/vi/uo14xGYwWd4/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705445353743"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a7080c3a8f33468e45e444"
+  },
+  "name": "Lollipop ft. Static",
+  "artist": "Lil Wayne",
+  "type": "song",
+  "duration": "05:02",
+  "trackId": "2IH8tNQAzSs",
+  "imgUrl": "https://i.ytimg.com/vi/2IH8tNQAzSs/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705445388551"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a708393a8f33468e45e445"
+  },
+  "name": "Bad and Boujee ft Lil Uzi Vert",
+  "artist": "Migos",
+  "type": "song",
+  "duration": "05:35",
+  "trackId": "S-sJp1FfG7Q",
+  "imgUrl": "https://i.ytimg.com/vi/S-sJp1FfG7Q/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705445433831"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a7088e3a8f33468e45e446"
+  },
+  "name": "No Love ft. Lil Wayne",
+  "artist": "Eminem",
+  "type": "song",
+  "duration": "05:15",
+  "trackId": "UbQhKxxrq04",
+  "imgUrl": "https://i.ytimg.com/vi/UbQhKxxrq04/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705445518926"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a708a53a8f33468e45e447"
+  },
+  "name": "Lose Yourself",
+  "artist": "Eminem",
+  "type": "song",
+  "duration": "05:28",
+  "trackId": "xFYQQPAOz7Y",
+  "imgUrl": "https://i.ytimg.com/vi/xFYQQPAOz7Y/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705445541039"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a708bb3a8f33468e45e448"
+  },
+  "name": "Still D.R.E. ft. Snoop Dogg",
+  "artist": "Dr. Dre",
+  "type": "song",
+  "duration": "04:51",
+  "trackId": "_CL6n0FJZpk",
+  "imgUrl": "https://i.ytimg.com/vi/_CL6n0FJZpk/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705445563772"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a708eb3a8f33468e45e449"
+  },
+  "name": "american dream: the 21 savage story | Official Trailer",
+  "artist": "Unknown",
+  "type": "song",
+  "duration": "04:20",
+  "trackId": "Na8i-SnGfqc",
+  "imgUrl": "https://i.ytimg.com/vi/Na8i-SnGfqc/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705445611702"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a70f183a8f33468e45e44a"
+  },
+  "name": "Runaway (Video Version) ft. Pusha T",
+  "artist": "Kanye West",
+  "type": "song",
+  "duration": "04:38",
+  "trackId": "Bm5iA4Zupek",
+  "imgUrl": "https://i.ytimg.com/vi/Bm5iA4Zupek/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705447192103"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a70f283a8f33468e45e44b"
+  },
+  "name": "Can&#39;t Tell Me Nothing",
+  "artist": "Kanye West",
+  "type": "song",
+  "duration": "04:32",
+  "trackId": "E58qLXBfLrs",
+  "imgUrl": "https://i.ytimg.com/vi/E58qLXBfLrs/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705447208271"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a70f333a8f33468e45e44c"
+  },
+  "name": "Good Morning",
+  "artist": "Kanye West",
+  "type": "song",
+  "duration": "03:08",
+  "trackId": "6CHs4x2uqcQ",
+  "imgUrl": "https://i.ytimg.com/vi/6CHs4x2uqcQ/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705447219096"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a70f423a8f33468e45e44d"
+  },
+  "name": "I Love It feat. Adele Givens [Official Music Video]",
+  "artist": "Kanye West &amp; Lil Pump",
+  "type": "song",
+  "duration": "02:11",
+  "trackId": "cwQgjq0mCdE",
+  "imgUrl": "https://i.ytimg.com/vi/cwQgjq0mCdE/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705447234472"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a70f523a8f33468e45e44e"
+  },
+  "name": "Gold Digger ft. Jamie Foxx",
+  "artist": "Kanye West",
+  "type": "song",
+  "duration": "03:42",
+  "trackId": "6vwNcNOTVzY",
+  "imgUrl": "https://i.ytimg.com/vi/6vwNcNOTVzY/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705447250279"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a70fd73a8f33468e45e44f"
+  },
+  "name": "Last Week (Official Video)",
+  "artist": "PGF Nuk",
+  "type": "song",
+  "duration": "01:53",
+  "trackId": "FNZRfHDAvng",
+  "imgUrl": "https://i.ytimg.com/vi/FNZRfHDAvng/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705447383840"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a710003a8f33468e45e450"
+  },
+  "name": "Life Of The Party",
+  "artist": "Kanye West",
+  "type": "song",
+  "duration": "02:40",
+  "trackId": "401hZy6Hipw",
+  "imgUrl": "https://i.ytimg.com/vi/401hZy6Hipw/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705447424231"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a710403a8f33468e45e451"
+  },
+  "name": "Runaway (Lyrics)",
+  "artist": "AURORA",
+  "type": "song",
+  "duration": "05:07",
+  "trackId": "KzrtfBtJqrk",
+  "imgUrl": "https://i.ytimg.com/vi/KzrtfBtJqrk/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705447488920"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a710653a8f33468e45e452"
+  },
+  "name": "Love Lockdown",
+  "artist": "Kanye West",
+  "type": "song",
+  "duration": "04:36",
+  "trackId": "HZwMX6T5Jhk",
+  "imgUrl": "https://i.ytimg.com/vi/HZwMX6T5Jhk/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705447525550"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a710803a8f33468e45e453"
+  },
+  "name": "Heartless",
+  "artist": "Kanye West",
+  "type": "song",
+  "duration": "03:41",
+  "trackId": "Co0tTeuUVhU",
+  "imgUrl": "https://i.ytimg.com/vi/Co0tTeuUVhU/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705447552961"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a714573a8f33468e45e455"
+  },
+  "name": "First Person Shooter ft. J. Cole",
+  "artist": "Drake",
+  "type": "song",
+  "duration": "05:01",
+  "trackId": "Xty2gi5cMa8",
+  "imgUrl": "https://i.ytimg.com/vi/Xty2gi5cMa8/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705448535007"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a714773a8f33468e45e456"
+  },
+  "name": "You Broke My Heart",
+  "artist": "Drake",
+  "type": "song",
+  "duration": "04:53",
+  "trackId": "w1-jss2mZlY",
+  "imgUrl": "https://i.ytimg.com/vi/w1-jss2mZlY/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705448567615"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a714873a8f33468e45e457"
+  },
+  "name": "IDGAF (Audio) ft. Yeat",
+  "artist": "Drake",
+  "type": "song",
+  "duration": "04:21",
+  "trackId": "fCRCLsJQWUQ",
+  "imgUrl": "https://i.ytimg.com/vi/fCRCLsJQWUQ/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705448583933"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a7149a3a8f33468e45e458"
+  },
+  "name": "God&#39;s Plan",
+  "artist": "Drake",
+  "type": "song",
+  "duration": "05:57",
+  "trackId": "xpVfcZ0ZcFM",
+  "imgUrl": "https://i.ytimg.com/vi/xpVfcZ0ZcFM/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705448602110"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a714ae3a8f33468e45e459"
+  },
+  "name": "Virginia Beach (Audio)",
+  "artist": "Drake",
+  "type": "song",
+  "duration": "04:12",
+  "trackId": "k20wnICXpps",
+  "imgUrl": "https://i.ytimg.com/vi/k20wnICXpps/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705448622504"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a714e43a8f33468e45e45a"
+  },
+  "name": "Life Is Good (Official Music Video) ft. Drake",
+  "artist": "Future",
+  "type": "song",
+  "duration": "05:36",
+  "trackId": "l0U7SxXHkPY",
+  "imgUrl": "https://i.ytimg.com/vi/l0U7SxXHkPY/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705448676893"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a714fd3a8f33468e45e45b"
+  },
+  "name": "Polar Opposites",
+  "artist": "Drake",
+  "type": "song",
+  "duration": "04:13",
+  "trackId": "0bxhAxRmrJw",
+  "imgUrl": "https://i.ytimg.com/vi/0bxhAxRmrJw/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705448701629"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a715123a8f33468e45e45c"
+  },
+  "name": "Headlines (Explicit)",
+  "artist": "Drake",
+  "type": "song",
+  "duration": "04:04",
+  "trackId": "cimoNqiulUE",
+  "imgUrl": "https://i.ytimg.com/vi/cimoNqiulUE/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705448722271"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a715273a8f33468e45e45d"
+  },
+  "name": "Hotline Bling",
+  "artist": "Drake",
+  "type": "song",
+  "duration": "04:56",
+  "trackId": "uxpDa-c-4Mc",
+  "imgUrl": "https://i.ytimg.com/vi/uxpDa-c-4Mc/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705448743934"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a715413a8f33468e45e45e"
+  },
+  "name": "Started From The Bottom",
+  "artist": "Drake",
+  "type": "song",
+  "duration": "05:21",
+  "trackId": "RubBzkZzpUA",
+  "imgUrl": "https://i.ytimg.com/vi/RubBzkZzpUA/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705448769326"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a716a73a8f33468e45e460"
+  },
+  "name": "Panda (Official Music Video)",
+  "artist": "Desiigner",
+  "type": "song",
+  "duration": "04:03",
+  "trackId": "E5ONTXHS2mM",
+  "imgUrl": "https://i.ytimg.com/vi/E5ONTXHS2mM/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705449127847"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a716c03a8f33468e45e461"
+  },
+  "name": "SICKO MODE ft. Drake",
+  "artist": "Travis Scott",
+  "type": "song",
+  "duration": "05:23",
+  "trackId": "6ONRf7h3Mdk",
+  "imgUrl": "https://i.ytimg.com/vi/6ONRf7h3Mdk/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705449152230"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a716d33a8f33468e45e462"
+  },
+  "name": "Slippery feat. Gucci Mane [Official Video]",
+  "artist": "Migos",
+  "type": "song",
+  "duration": "05:07",
+  "trackId": "Hm1YFszJWbQ",
+  "imgUrl": "https://i.ytimg.com/vi/Hm1YFszJWbQ/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705449171324"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a717353a8f33468e45e463"
+  },
+  "name": "Laugh Now Cry Later (Official Music Video) ft. Lil Durk",
+  "artist": "Drake",
+  "type": "song",
+  "duration": "05:02",
+  "trackId": "JFm7YDVlqnI",
+  "imgUrl": "https://i.ytimg.com/vi/JFm7YDVlqnI/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705449269333"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a7177e3a8f33468e45e464"
+  },
+  "name": "Hot N*gga (Official Music Video)",
+  "artist": "Bobby Shmurda",
+  "type": "song",
+  "duration": "03:19",
+  "trackId": "vJwKKKd2ZYE",
+  "imgUrl": "https://i.ytimg.com/vi/vJwKKKd2ZYE/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705449342310"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a717903a8f33468e45e465"
+  },
+  "name": "Taste (Official Video) ft. Offset",
+  "artist": "Tyga",
+  "type": "song",
+  "duration": "03:53",
+  "trackId": "LjxulQ1bEWg",
+  "imgUrl": "https://i.ytimg.com/vi/LjxulQ1bEWg/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705449360981"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a719373a8f33468e45e467"
+  },
+  "name": "קרן שמש",
+  "artist": "בניה ברבי",
+  "type": "song",
+  "duration": "03:48",
+  "trackId": "n5illsgvqKA",
+  "imgUrl": "https://i.ytimg.com/vi/n5illsgvqKA/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705449783468"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a7194f3a8f33468e45e468"
+  },
+  "name": "אינטלקטוערסית (Prod. By Triangle)",
+  "artist": "אודיה",
+  "type": "song",
+  "duration": "02:09",
+  "trackId": "UNZJQw8cr6o",
+  "imgUrl": "https://i.ytimg.com/vi/UNZJQw8cr6o/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705449807854"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a719633a8f33468e45e469"
+  },
+  "name": "האמת (Prod by. Moshe &amp; Ofek)",
+  "artist": "אודיה &amp; ****",
+  "type": "song",
+  "duration": "03:11",
+  "trackId": "csafTcTFWDM",
+  "imgUrl": "https://i.ytimg.com/vi/csafTcTFWDM/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705449827148"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a7197b3a8f33468e45e46a"
+  },
+  "name": "פנתרה (Prod. By Tamir Zur)",
+  "artist": "אייל גולן",
+  "type": "song",
+  "duration": "03:25",
+  "trackId": "d0gBmCQepRY",
+  "imgUrl": "https://i.ytimg.com/vi/d0gBmCQepRY/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705449851381"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a7198e3a8f33468e45e46b"
+  },
+  "name": "סהרה- טונה מארח את יסמין מועלם בלייב פארק",
+  "artist": "Unknown",
+  "type": "song",
+  "duration": "04:34",
+  "trackId": "_wuFItGI01A",
+  "imgUrl": "https://i.ytimg.com/vi/_wuFItGI01A/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705449870548"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a719aa3a8f33468e45e46c"
+  },
+  "name": "קופידון (Prod by. Triangle)",
+  "artist": "אגם בוחבוט",
+  "type": "song",
+  "duration": "02:50",
+  "trackId": "C1ToP8UZr-s",
+  "imgUrl": "https://i.ytimg.com/vi/C1ToP8UZr-s/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705449898864"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a719c13a8f33468e45e46d"
+  },
+  "name": "פנתרה (Prod. By Jordi)",
+  "artist": "נועה קירל",
+  "type": "song",
+  "duration": "03:04",
+  "trackId": "ZOf7aMbzQAM",
+  "imgUrl": "https://i.ytimg.com/vi/ZOf7aMbzQAM/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705449921365"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a719d43a8f33468e45e46e"
+  },
+  "name": "כינורות (Prod. By Matan Dror)",
+  "artist": "עדן בן זקן",
+  "type": "song",
+  "duration": "02:56",
+  "trackId": "4uyUMjIhp-U",
+  "imgUrl": "https://i.ytimg.com/vi/4uyUMjIhp-U/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705449940506"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a719e73a8f33468e45e46f"
+  },
+  "name": "מה עובר לך בראש",
+  "artist": "בן צור",
+  "type": "song",
+  "duration": "02:36",
+  "trackId": "k6VOZwkXmfA",
+  "imgUrl": "https://i.ytimg.com/vi/k6VOZwkXmfA/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705449959787"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a719fb3a8f33468e45e470"
+  },
+  "name": "יאללה ביי (Prod. by Maor Shitrit)",
+  "artist": "מאיה דדון",
+  "type": "song",
+  "duration": "02:36",
+  "trackId": "BjQAaE_Dm78",
+  "imgUrl": "https://i.ytimg.com/vi/BjQAaE_Dm78/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705449979915"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71a113a8f33468e45e471"
+  },
+  "name": "מי זאת (Dalit Rechester Remix)",
+  "artist": "אנה זק",
+  "type": "song",
+  "duration": "02:30",
+  "trackId": "T1Acg60hU1E",
+  "imgUrl": "https://i.ytimg.com/vi/T1Acg60hU1E/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705450001980"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71b153a8f33468e45e473"
+  },
+  "name": "היי בייב",
+  "artist": "טונה",
+  "type": "song",
+  "duration": "03:08",
+  "trackId": "eDfcyn5jLII",
+  "imgUrl": "https://i.ytimg.com/vi/eDfcyn5jLII/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705450261094"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71b213a8f33468e45e474"
+  },
+  "name": "סהרה (חי בלייב פארק)",
+  "artist": "טונה ויסמין מועלם",
+  "type": "song",
+  "duration": "04:32",
+  "trackId": "qALEkPoY-Hg",
+  "imgUrl": "https://i.ytimg.com/vi/qALEkPoY-Hg/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705450273715"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71b343a8f33468e45e475"
+  },
+  "name": "גם זה יעבור // This Too Shall Pass",
+  "artist": "טונה",
+  "type": "song",
+  "duration": "05:11",
+  "trackId": "3PJmE-ucx_o",
+  "imgUrl": "https://i.ytimg.com/vi/3PJmE-ucx_o/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705450292359"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71b5f3a8f33468e45e476"
+  },
+  "name": "כנפיים (Live)",
+  "artist": "Unknown",
+  "type": "song",
+  "duration": "04:51",
+  "trackId": "25N_Cd-JSUo",
+  "imgUrl": "https://i.ytimg.com/vi/25N_Cd-JSUo/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705450335252"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71b703a8f33468e45e477"
+  },
+  "name": "סחרחורת",
+  "artist": "טונה",
+  "type": "song",
+  "duration": "04:18",
+  "trackId": "upnBxPFcLY8",
+  "imgUrl": "https://i.ytimg.com/vi/upnBxPFcLY8/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705450352666"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71b843a8f33468e45e478"
+  },
+  "name": "כל הכוכבים",
+  "artist": "טונה",
+  "type": "song",
+  "duration": "02:42",
+  "trackId": "doYvXHat8gU",
+  "imgUrl": "https://i.ytimg.com/vi/doYvXHat8gU/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705450372676"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71b993a8f33468e45e479"
+  },
+  "name": "בסיבוב (חי באולפן גלגלצ)",
+  "artist": "טונה וצליל דנין",
+  "type": "song",
+  "duration": "03:56",
+  "trackId": "x3qAONvHgyE",
+  "imgUrl": "https://i.ytimg.com/vi/x3qAONvHgyE/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705450393594"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71bb13a8f33468e45e47a"
+  },
+  "name": "אבודים בחלל Black and Yellow X",
+  "artist": "טונה &amp; Wiz Khalifa Mashup",
+  "type": "song",
+  "duration": "04:14",
+  "trackId": "B8H0tB3aaig",
+  "imgUrl": "https://i.ytimg.com/vi/B8H0tB3aaig/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705450417021"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71bc23a8f33468e45e47b"
+  },
+  "name": "רוק 30",
+  "artist": "טונה x פלוטניק | המופע המשותף",
+  "type": "song",
+  "duration": "04:07",
+  "trackId": "5O5uvE6o5bs",
+  "imgUrl": "https://i.ytimg.com/vi/5O5uvE6o5bs/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705450434612"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71bdf3a8f33468e45e47c"
+  },
+  "name": "שימי + עולם משוגע",
+  "artist": "נינט וטונה",
+  "type": "song",
+  "duration": "08:51",
+  "trackId": "rOY5xxmZ4Mc",
+  "imgUrl": "https://i.ytimg.com/vi/rOY5xxmZ4Mc/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705450463122"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71cb33a8f33468e45e47e"
+  },
+  "name": "אני  (Prod by. Moshe &amp; Ofek)",
+  "artist": "עומר אדם",
+  "type": "song",
+  "duration": "02:36",
+  "trackId": "ifpiFzu4c54",
+  "imgUrl": "https://i.ytimg.com/vi/ifpiFzu4c54/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705450675580"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71cc43a8f33468e45e47f"
+  },
+  "name": "עומר אדם – קומה 58   (Prod. by Assaf Tzrouya)",
+  "artist": "Unknown",
+  "type": "song",
+  "duration": "02:57",
+  "trackId": "zfPZ0l4tw_Y",
+  "imgUrl": "https://i.ytimg.com/vi/zfPZ0l4tw_Y/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705450692546"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71ce63a8f33468e45e480"
+  },
+  "name": "פסקול חיי",
+  "artist": "עומר אדם",
+  "type": "song",
+  "duration": "03:16",
+  "trackId": "xmeCr9QPhkA",
+  "imgUrl": "https://i.ytimg.com/vi/xmeCr9QPhkA/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705450726445"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71d003a8f33468e45e481"
+  },
+  "name": "עומר אדם – תמיד שלך (Prod By. Tamar Yahalomy &amp; Yonatan Kalimi)",
+  "artist": "Unknown",
+  "type": "song",
+  "duration": "03:05",
+  "trackId": "PburljbL-fo",
+  "imgUrl": "https://i.ytimg.com/vi/PburljbL-fo/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705450752283"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71d0d3a8f33468e45e482"
+  },
+  "name": "סטלות",
+  "artist": "עומר אדם",
+  "type": "song",
+  "duration": "03:56",
+  "trackId": "Whq0X6xs-2A",
+  "imgUrl": "https://i.ytimg.com/vi/Whq0X6xs-2A/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705450765467"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71d263a8f33468e45e483"
+  },
+  "name": "כשאת הלכת",
+  "artist": "משה פרץ ועומר אדם",
+  "type": "song",
+  "duration": "06:05",
+  "trackId": "JRwXl_vuVB4",
+  "imgUrl": "https://i.ytimg.com/vi/JRwXl_vuVB4/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705450790602"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71d3d3a8f33468e45e484"
+  },
+  "name": "בסוף הכל חולף",
+  "artist": "עומר אדם",
+  "type": "song",
+  "duration": "03:32",
+  "trackId": "2D5DnahF3JI",
+  "imgUrl": "https://i.ytimg.com/vi/2D5DnahF3JI/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705450813835"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71d573a8f33468e45e485"
+  },
+  "name": "לבד על המיטה (Prod By Gil Vain &amp; Tal Castiel)",
+  "artist": "עומר אדם",
+  "type": "song",
+  "duration": "02:36",
+  "trackId": "ckObp0fTNmU",
+  "imgUrl": "https://i.ytimg.com/vi/ckObp0fTNmU/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705450839218"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71d6a3a8f33468e45e486"
+  },
+  "name": "מים שקופים",
+  "artist": "עומר אדם",
+  "type": "song",
+  "duration": "03:10",
+  "trackId": "y-Ae0pPckVI",
+  "imgUrl": "https://i.ytimg.com/vi/y-Ae0pPckVI/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705450858351"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71d7c3a8f33468e45e487"
+  },
+  "name": "אוהבת אותי אמיתי",
+  "artist": "עומר אדם",
+  "type": "song",
+  "duration": "03:39",
+  "trackId": "31DIsGbFVgY",
+  "imgUrl": "https://i.ytimg.com/vi/31DIsGbFVgY/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705450876564"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71f443a8f33468e45e489"
+  },
+  "name": "ילד שלי",
+  "artist": "אייל גולן",
+  "type": "song",
+  "duration": "03:52",
+  "trackId": "Pp-jJpj4dq4",
+  "imgUrl": "https://i.ytimg.com/vi/Pp-jJpj4dq4/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705451332657"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71f503a8f33468e45e48a"
+  },
+  "name": "אייל גולן – עם ישראל חי (Prod.By Offir Cohen)",
+  "artist": "Unknown",
+  "type": "song",
+  "duration": "03:34",
+  "trackId": "1HgKB4-kQdA",
+  "imgUrl": "https://i.ytimg.com/vi/1HgKB4-kQdA/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705451344960"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71f5c3a8f33468e45e48b"
+  },
+  "name": "שלום אהובתי (Prod. by Yaaqov Lamay)",
+  "artist": "אייל גולן",
+  "type": "song",
+  "duration": "04:09",
+  "trackId": "fBhA1LKKuNk",
+  "imgUrl": "https://i.ytimg.com/vi/fBhA1LKKuNk/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705451356345"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71f673a8f33468e45e48c"
+  },
+  "name": "חייל של אהבה | מבקשים חיים | אם יש גן עדן (Prod. by Guy Dan)",
+  "artist": "אייל גולן",
+  "type": "song",
+  "duration": "05:18",
+  "trackId": "T09WY1h046w",
+  "imgUrl": "https://i.ytimg.com/vi/T09WY1h046w/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705451367041"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71f723a8f33468e45e48d"
+  },
+  "name": "עיר נמל [Music.By Tamir Zur]",
+  "artist": "אייל גולן ",
+  "type": "song",
+  "duration": "04:15",
+  "trackId": "UAP9A-0HlqU",
+  "imgUrl": "https://i.ytimg.com/vi/UAP9A-0HlqU/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705451378731"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71f973a8f33468e45e48e"
+  },
+  "name": "מתי את חוזרת (Prod. by Yaaqov Lamay)",
+  "artist": "אייל גולן",
+  "type": "song",
+  "duration": "03:51",
+  "trackId": "k7-XWX0WSV8",
+  "imgUrl": "https://i.ytimg.com/vi/k7-XWX0WSV8/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705451415835"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71fa73a8f33468e45e48f"
+  },
+  "name": "באתי אלייך Eyal Golan",
+  "artist": "אייל גולן",
+  "type": "song",
+  "duration": "03:59",
+  "trackId": "joStlhuYjfk",
+  "imgUrl": "https://i.ytimg.com/vi/joStlhuYjfk/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705451431353"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71fb93a8f33468e45e490"
+  },
+  "name": "אייל גולן לוחמת Eyal Golan",
+  "artist": "Unknown",
+  "type": "song",
+  "duration": "04:04",
+  "trackId": "X308PIRPl88",
+  "imgUrl": "https://i.ytimg.com/vi/X308PIRPl88/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705451449482"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71fcc3a8f33468e45e491"
+  },
+  "name": "אייל גולן אלוהי Eyal Golan",
+  "artist": "Unknown",
+  "type": "song",
+  "duration": "04:27",
+  "trackId": "BT5A7NdyMss",
+  "imgUrl": "https://i.ytimg.com/vi/BT5A7NdyMss/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705451468674"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a71fdc3a8f33468e45e492"
+  },
+  "name": "ואת אינך [Music.By Tamir Zur]",
+  "artist": "אייל גולן",
+  "type": "song",
+  "duration": "05:53",
+  "trackId": "j5MvCqFokhs",
+  "imgUrl": "https://i.ytimg.com/vi/j5MvCqFokhs/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705451484698"
+  },
+  "likedByUsers": []
+},
+{
+  "_id": {
+    "$oid": "65a720ba3a8f33468e45e494"
+  },
+  "name": "בסוף מתרגלים להכל",
+  "artist": "דודו טסה",
+  "type": "song",
+  "duration": "04:02",
+  "trackId": "pz6HWpCRsc4",
+  "imgUrl": "https://i.ytimg.com/vi/pz6HWpCRsc4/mqdefault.jpg",
+  "addedBy": "artist",
+  "addedAt": {
+    "$numberLong": "1705451706976"
   },
   "likedByUsers": []
 }]
