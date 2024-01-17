@@ -21,6 +21,7 @@ export async function getStationById(req, res) {
 
     try {
         const { stationId } = req.params
+        console.log("stationId:", stationId)
 
         const station = await stationService.getById(stationId)
         res.json(station)
