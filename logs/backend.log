@@ -1240,3 +1240,133 @@
 16.1.2024, 15:36:22 - INFO - Req was made | /
 16.1.2024, 15:36:22 - DEBUG - Getting stations | {}
 16.1.2024, 15:36:33 - INFO - Server is running on port: 3030
+17.1.2024, 2:34:58 - DEBUG - Getting stations | {}
+17.1.2024, 2:34:58 - INFO - Req was made | /
+17.1.2024, 2:35:06 - DEBUG - Getting stations | {}
+17.1.2024, 2:35:06 - INFO - Req was made | /
+17.1.2024, 2:35:11 - INFO - Req was made | /:stationId
+17.1.2024, 2:35:13 - INFO - Req was made | /
+17.1.2024, 2:35:13 - DEBUG - Getting stations | {}
+17.1.2024, 2:35:14 - INFO - Req was made | /:stationId
+17.1.2024, 2:35:17 - INFO - Req was made | /
+17.1.2024, 2:35:17 - DEBUG - Getting stations | {}
+17.1.2024, 2:35:20 - INFO - Req was made | /:stationId
+17.1.2024, 2:35:52 - INFO - Req was made | /
+17.1.2024, 2:35:52 - DEBUG - Getting stations | {}
+17.1.2024, 2:36:17 - INFO - Req was made | /
+17.1.2024, 2:36:17 - DEBUG - Getting stations | {}
+17.1.2024, 2:36:20 - INFO - Req was made | /
+17.1.2024, 2:36:20 - DEBUG - Getting stations | {}
+17.1.2024, 2:36:21 - INFO - Req was made | /:stationId
+17.1.2024, 2:36:23 - INFO - Req was made | /
+17.1.2024, 2:36:23 - DEBUG - Getting stations | {}
+17.1.2024, 2:36:34 - DEBUG - Getting stations | {}
+17.1.2024, 2:36:34 - INFO - Req was made | /
+17.1.2024, 2:36:35 - DEBUG - Getting stations | {}
+17.1.2024, 2:36:35 - INFO - Req was made | /
+17.1.2024, 2:36:37 - INFO - Req was made | /
+17.1.2024, 2:36:37 - DEBUG - Getting stations | {}
+17.1.2024, 2:36:38 - DEBUG - Getting stations | {}
+17.1.2024, 2:36:38 - INFO - Req was made | /
+17.1.2024, 2:36:40 - INFO - Req was made | /:stationId
+17.1.2024, 2:36:41 - INFO - Req was made | /:stationId
+17.1.2024, 2:36:44 - INFO - Req was made | /
+17.1.2024, 2:36:44 - DEBUG - Getting stations | {}
+17.1.2024, 2:37:19 - INFO - Server is running on port: 3030
+17.1.2024, 2:48:47 - INFO - Req was made | /edit
+17.1.2024, 2:48:47 - DEBUG - auth.service - signup with username: TubeFy
+17.1.2024, 2:48:47 - DEBUG - auth.route - new account created: {"username":"TubeFy","password":"$2b$10$cwA01rZRLO76QDNTgy3zluAz3vAgUAFJ8Gs0V/XTCTHS054jLXzAK","email":"a@a","stations":[{"name":"Liked Songs","stationListTitle":"","type":"playlist","tags":[],"imgUrl":"http://res.cloudinary.com/dpnevk8db/image/upload/v1705451341/ebpe6nnlgajtmfyldt4a.png","createdBy":{"_id":"","username":""},"likedByUsers":0,"songs":[],"duration":"00:00","_id":"65a723efdece2693df91ffc3"}],"imgUrl":"","_id":"65a723efdece2693df91ffc4"}
+17.1.2024, 2:48:47 - DEBUG - auth.service - login with username: TubeFy
+17.1.2024, 2:48:49 - INFO - Req was made | /edit
+17.1.2024, 2:48:49 - INFO - Req was made | /:userId
+17.1.2024, 2:48:49 - INFO - Req was made | /:stationId
+17.1.2024, 2:49:08 - INFO - Req was made | /edit/:stationId
+17.1.2024, 2:49:08 - INFO - Req was made | /:userId
+17.1.2024, 2:49:08 - INFO - Req was made | /:stationId
+17.1.2024, 2:49:28 - INFO - Req was made | /:stationId
+17.1.2024, 2:49:31 - INFO - Req was made | /:stationId
+17.1.2024, 2:49:36 - INFO - Req was made | /:userId
+17.1.2024, 2:49:36 - DEBUG - Getting stations | {}
+17.1.2024, 2:49:36 - INFO - Req was made | /:stationId
+17.1.2024, 2:49:36 - INFO - Req was made | /:stationId
+17.1.2024, 2:49:36 - INFO - Req was made | /
+17.1.2024, 2:49:38 - INFO - Req was made | /
+17.1.2024, 2:49:38 - DEBUG - Getting stations | {}
+17.1.2024, 2:49:41 - INFO - Req was made | /edit
+17.1.2024, 2:49:41 - INFO - Req was made | /:userId
+17.1.2024, 2:49:41 - INFO - Req was made | /:stationId
+17.1.2024, 2:50:31 - INFO - Req was made | /:stationId
+17.1.2024, 2:51:14 - INFO - Req was made | /:stationId
+17.1.2024, 2:51:21 - INFO - Req was made | /:stationId
+17.1.2024, 2:51:54 - INFO - Req was made | /:stationId
+17.1.2024, 2:52:03 - INFO - Req was made | /:stationId
+17.1.2024, 2:52:14 - INFO - Req was made | /:stationId
+17.1.2024, 2:52:22 - INFO - Req was made | /:userId
+17.1.2024, 2:52:22 - INFO - Req was made | /:stationId
+17.1.2024, 2:52:22 - INFO - Req was made | /:stationId
+17.1.2024, 2:52:22 - DEBUG - Getting stations | {}
+17.1.2024, 2:52:22 - INFO - Req was made | /
+17.1.2024, 2:52:25 - INFO - Req was made | /
+17.1.2024, 2:52:25 - DEBUG - Getting stations | {}
+17.1.2024, 2:52:27 - INFO - Req was made | /edit
+17.1.2024, 2:52:27 - INFO - Req was made | /:userId
+17.1.2024, 2:52:27 - INFO - Req was made | /:stationId
+17.1.2024, 2:53:08 - INFO - Req was made | /:stationId
+17.1.2024, 2:53:12 - INFO - Req was made | /:stationId
+17.1.2024, 2:53:13 - INFO - Req was made | /:userId
+17.1.2024, 2:53:13 - INFO - Req was made | /:stationId
+17.1.2024, 2:53:13 - INFO - Req was made | /:stationId
+17.1.2024, 2:53:13 - INFO - Req was made | /
+17.1.2024, 2:53:13 - DEBUG - Getting stations | {}
+17.1.2024, 2:53:17 - INFO - Req was made | /edit
+17.1.2024, 2:53:17 - INFO - Req was made | /:userId
+17.1.2024, 2:53:17 - INFO - Req was made | /:stationId
+17.1.2024, 2:54:10 - INFO - Server is running on port: 3030
+17.1.2024, 2:54:20 - INFO - Server is running on port: 3030
+17.1.2024, 2:54:23 - INFO - Server is running on port: 3030
+17.1.2024, 2:54:30 - INFO - Server is running on port: 3030
+17.1.2024, 2:54:42 - INFO - Server is running on port: 3030
+17.1.2024, 2:54:54 - INFO - Req was made | /:userId
+17.1.2024, 2:54:54 - INFO - Req was made | /:stationId
+17.1.2024, 2:54:54 - DEBUG - Getting stations | {}
+17.1.2024, 2:54:54 - INFO - Req was made | /
+17.1.2024, 2:54:54 - INFO - Req was made | /:stationId
+17.1.2024, 2:54:58 - INFO - Req was made | /edit
+17.1.2024, 2:54:58 - INFO - Req was made | /:userId
+17.1.2024, 2:54:58 - INFO - Req was made | /:stationId
+17.1.2024, 2:55:14 - INFO - Req was made | /edit/:stationId
+17.1.2024, 2:55:14 - INFO - Req was made | /:userId
+17.1.2024, 2:55:14 - INFO - Req was made | /:stationId
+17.1.2024, 2:57:00 - INFO - Req was made | /:stationId
+17.1.2024, 2:57:02 - INFO - Req was made | /:userId
+17.1.2024, 2:57:02 - INFO - Req was made | /edit
+17.1.2024, 2:57:02 - INFO - Req was made | /:stationId
+17.1.2024, 2:57:02 - INFO - Req was made | /:stationId
+17.1.2024, 2:58:10 - INFO - Req was made | /:userId
+17.1.2024, 2:58:11 - INFO - Req was made | /:stationId
+17.1.2024, 2:58:11 - INFO - Req was made | /:stationId
+17.1.2024, 2:58:11 - DEBUG - Getting stations | {}
+17.1.2024, 2:58:11 - INFO - Req was made | /
+17.1.2024, 2:58:11 - INFO - Req was made | /:userId
+17.1.2024, 2:58:11 - INFO - Req was made | /:stationId
+17.1.2024, 2:58:14 - INFO - Req was made | /
+17.1.2024, 2:58:14 - DEBUG - Getting stations | {}
+17.1.2024, 2:58:16 - INFO - Req was made | /:userId
+17.1.2024, 2:58:16 - INFO - Req was made | /edit
+17.1.2024, 2:58:16 - INFO - Req was made | /:stationId
+17.1.2024, 2:59:01 - INFO - Req was made | /edit/:stationId
+17.1.2024, 2:59:01 - INFO - Req was made | /:stationId
+17.1.2024, 2:59:01 - INFO - Req was made | /:userId
+17.1.2024, 2:59:46 - INFO - Req was made | /:stationId
+17.1.2024, 2:59:58 - INFO - Req was made | /:stationId
+17.1.2024, 3:00:06 - INFO - Req was made | /edit/:stationId
+17.1.2024, 3:00:06 - INFO - Req was made | /:userId
+17.1.2024, 3:00:06 - INFO - Req was made | /:stationId
+17.1.2024, 3:00:19 - INFO - Req was made | /:stationId
+17.1.2024, 3:00:33 - INFO - Req was made | /:stationId
+17.1.2024, 3:00:54 - INFO - Server is running on port: 3030
+17.1.2024, 3:00:59 - INFO - Server is running on port: 3030
+17.1.2024, 3:01:08 - INFO - Req was made | /:stationId
+17.1.2024, 3:01:17 - INFO - Req was made | /:userId
+17.1.2024, 3:01:17 - INFO - Req was made | /edit/:stationId
+17.1.2024, 3:01:17 - INFO - Req was made | /:stationId
