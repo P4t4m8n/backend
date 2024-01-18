@@ -1,23 +1,5 @@
 [{
   "_id": {
-    "$oid": "65a79e580a6302dbc4ca8bdf"
-  },
-  "name": "Liked Songs",
-  "stationListTitle": "",
-  "type": "playlist",
-  "tags": [],
-  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705451341/ebpe6nnlgajtmfyldt4a.png",
-  "createdBy": {
-    "_id": "",
-    "username": ""
-  },
-  "likedByUsers": 0,
-  "songs": [],
-  "duration": "",
-  "description": ""
-},
-{
-  "_id": {
     "$oid": "65a79e6c0a6302dbc4ca8be1"
   },
   "name": "Daily Mix 1",
@@ -459,27 +441,9 @@
 },
 {
   "_id": {
-    "$oid": "65a7db312e4ca17be5c5d884"
-  },
-  "name": "Liked Songs",
-  "stationListTitle": "",
-  "type": "playlist",
-  "tags": [],
-  "imgUrl": "http://res.cloudinary.com/dpnevk8db/image/upload/v1705451341/ebpe6nnlgajtmfyldt4a.png",
-  "createdBy": {
-    "_id": "",
-    "username": ""
-  },
-  "likedByUsers": 0,
-  "songs": [],
-  "duration": "",
-  "description": ""
-},
-{
-  "_id": {
     "$oid": "65a7eb4a64cffc0294370c88"
   },
-  "name": "bla",
+  "name": "Rock Radio",
   "stationListTitle": "Top charts",
   "type": "playlist",
   "tags": [],
@@ -497,7 +461,7 @@
   "_id": {
     "$oid": "65a7ebb564cffc0294370c8c"
   },
-  "name": "B",
+  "name": "Best songs from the 90s",
   "stationListTitle": "Top charts",
   "type": "playlist",
   "tags": [],
@@ -530,7 +494,7 @@
   "_id": {
     "$oid": "65a7ebb564cffc0294370c8d"
   },
-  "name": "sdas",
+  "name": "Ultimate music",
   "stationListTitle": "Jump back on",
   "type": "playlist",
   "tags": [],
@@ -557,13 +521,13 @@
     }
   ],
   "duration": "",
-  "description": "dasdasdadasdsa"
+  "description": "This weeks best"
 },
 {
   "_id": {
     "$oid": "65a7ebb664cffc0294370c8e"
   },
-  "name": "dadas",
+  "name": "Rock Me Up",
   "stationListTitle": "Jump back on",
   "type": "playlist",
   "tags": [],
@@ -590,13 +554,13 @@
     }
   ],
   "duration": "",
-  "description": "adadadada"
+  "description": "A dose of high-energy"
 },
 {
   "_id": {
     "$oid": "65a7ebb664cffc0294370c8f"
   },
-  "name": "asdad",
+  "name": "New blood",
   "stationListTitle": "Jump back on",
   "type": "playlist",
   "tags": [],
@@ -623,5 +587,5 @@
     }
   ],
   "duration": "",
-  "description": "adada"
+  "description": "Songs you need to hear"
 }]
